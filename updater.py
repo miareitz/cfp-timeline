@@ -776,7 +776,8 @@ class CallForPapers(ConfMetaData):
 
 		# NB: it isn't always year = this.year, e.g. the submission can be the year before the conference dates
 		year_shift = self.year - prev_cfp.year
-		assert year_shift > 0, 'Should only extrapolate from past conferences'
+		if year_shift <= 0:
+			return self
 
 		if self.link == '(missing)':
 			self.link = prev_cfp.link
