@@ -1,0 +1,2898 @@
+{
+  "3DV": {
+    "continent": "North America",
+    "raw": "Vancouver, Canada"
+  },
+  "3PGCIC": {
+    "continent": "(unknown)",
+    "raw": "Online"
+  },
+  "A-SSCC": {
+    "continent": "Asia",
+    "raw": "Daejeon, South Korea"
+  },
+  "AAAI": {
+    "continent": "Asia",
+    "raw": "SINGAPORE"
+  },
+  "AAIM": {
+    "continent": "(unknown)",
+    "raw": "Online(No Registration Fee)"
+  },
+  "AAMAS": {
+    "continent": "Europe",
+    "raw": "Paphos, Cyprus"
+  },
+  "ACE": {
+    "continent": "Asia",
+    "raw": "Tokyo"
+  },
+  "ACHI": {
+    "continent": "Europe",
+    "raw": "Venice, Italy"
+  },
+  "ACII": {
+    "continent": "North America",
+    "raw": "Puebla, M\u00c3\u00a9xico"
+  },
+  "ACIIDS": {
+    "continent": "Asia",
+    "raw": "Kaohsiung, Taiwan"
+  },
+  "ACISP": {
+    "continent": "Australia",
+    "raw": "Perth, Australia"
+  },
+  "ACIVS": {
+    "continent": "Asia",
+    "raw": "Okinawa, Japan"
+  },
+  "ACL": {
+    "continent": "North America",
+    "raw": "San Diego, CA, United States"
+  },
+  "ACML": {
+    "continent": "Asia",
+    "raw": "Taipei, Taiwan"
+  },
+  "ACMMM": {
+    "continent": "Europe",
+    "raw": "Dublin"
+  },
+  "ACMSE": {
+    "continent": "North America",
+    "raw": "Troy, Alabama, USA"
+  },
+  "ACNS": {
+    "continent": "Europe",
+    "raw": "Munich, Germany"
+  },
+  "ACPR": {
+    "continent": "Australia",
+    "raw": "Gold Coast, Australia"
+  },
+  "ADMA": {
+    "continent": "Asia",
+    "raw": "Hong Kong SAR,China"
+  },
+  "AE": {
+    "continent": "Europe",
+    "raw": "Pilsen, Czech Republic"
+  },
+  "AI": {
+    "continent": "(unknown)",
+    "raw": "N/A"
+  },
+  "AIAI": {
+    "continent": "Europe",
+    "raw": "Crete city of Chania, Greece"
+  },
+  "AICCSA": {
+    "continent": "Asia",
+    "raw": "University of Sharjah, Sharjah, UAE"
+  },
+  "AICT": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "AIED": {
+    "continent": "Asia",
+    "raw": "Seoul, Republic of Korea (South Korea)"
+  },
+  "AIME": {
+    "continent": "North America",
+    "raw": "Ottawa, Canada"
+  },
+  "AIMSA": {
+    "continent": "Europe",
+    "raw": "Sofia, Bulgaria"
+  },
+  "AIPS": {
+    "continent": "Asia",
+    "raw": "Quzhou, China"
+  },
+  "AISTATS": {
+    "continent": "Asia",
+    "raw": "Splash Beach Resort, Mai Khao, Thailand"
+  },
+  "AMSTA": {
+    "continent": "Europe",
+    "raw": "Solin, Croatia"
+  },
+  "ANT": {
+    "continent": "(unknown)",
+    "raw": "Istanbul, Turkiye"
+  },
+  "ANTS": {
+    "continent": "Asia",
+    "raw": "New Delhi, India"
+  },
+  "APCC": {
+    "continent": "Asia",
+    "raw": "Osaka, Japan"
+  },
+  "APCCAS": {
+    "continent": "Asia",
+    "raw": "Busan, South Korea"
+  },
+  "APL": {
+    "continent": "South America",
+    "raw": "Campinas, Brazil"
+  },
+  "APNOMS": {
+    "continent": "Asia",
+    "raw": "Kumamoto, Japan"
+  },
+  "APPEEC": {
+    "continent": "Asia",
+    "raw": "Singapore"
+  },
+  "APSEC": {
+    "continent": "Asia",
+    "raw": "Macao SAR, China"
+  },
+  "APSYS": {
+    "continent": "Asia",
+    "raw": "Seoul, South Korea"
+  },
+  "APWEB-WAIM": {
+    "continent": "Asia",
+    "raw": "shenyang china"
+  },
+  "ARC": {
+    "continent": "Europe",
+    "raw": "Cagliari, Italy"
+  },
+  "ARCS": {
+    "continent": "Europe",
+    "raw": "Mainz, Germany"
+  },
+  "ARES": {
+    "continent": "(unknown)",
+    "raw": "Link\u00c3\u00b6ping"
+  },
+  "ASAP": {
+    "continent": "Europe",
+    "raw": "London"
+  },
+  "ASE": {
+    "continent": "Europe",
+    "raw": "Munich, Germany"
+  },
+  "ASONAM": {
+    "continent": "Africa",
+    "raw": "Rabat, Morocco"
+  },
+  "ASP-DAC": {
+    "continent": "Asia",
+    "raw": "Miraikan, Tokyo, Japan"
+  },
+  "ASPLOS": {
+    "continent": "(unknown)",
+    "raw": "???"
+  },
+  "AST": {
+    "continent": "South America",
+    "raw": "Rio de Janeiro, Brazil"
+  },
+  "ASYNC": {
+    "continent": "Europe",
+    "raw": "Lyngby, Denmark"
+  },
+  "AUTOMATA": {
+    "continent": "Europe",
+    "raw": "France"
+  },
+  "AVI": {
+    "continent": "Europe",
+    "raw": "Venice, Italy"
+  },
+  "AVSS": {
+    "continent": "Europe",
+    "raw": "Lecce, Italy"
+  },
+  "ArtsIT": {
+    "continent": "Europe",
+    "raw": "Bratislava, Slovakia"
+  },
+  "AsiaCCS": {
+    "continent": "Asia",
+    "raw": "Ha Noi, Vietnam"
+  },
+  "AusDM": {
+    "continent": "Australia",
+    "raw": "Brisbane, Australia"
+  },
+  "BCB": {
+    "continent": "North America",
+    "raw": "Philadelphia, PA"
+  },
+  "BHI": {
+    "continent": "North America",
+    "raw": "Atlanta, Georgia, USA"
+  },
+  "BIBE": {
+    "continent": "Europe",
+    "raw": "Athens, Greece"
+  },
+  "BIG DATA": {
+    "continent": "Asia",
+    "raw": "China"
+  },
+  "BIGCOMP": {
+    "continent": "Asia",
+    "raw": "Kota Kinabalu, Malaysia"
+  },
+  "BIGDATA CONGRESS": {
+    "continent": "North America",
+    "raw": "Phoenix, Arizona, USA"
+  },
+  "BIODEVICES": {
+    "continent": "Europe",
+    "raw": "Marbella, Spain"
+  },
+  "BIOINFORMATICS": {
+    "continent": "Europe",
+    "raw": "Marbella, Spain"
+  },
+  "BIOKDD": {
+    "continent": "Asia",
+    "raw": "Jeju, Korea"
+  },
+  "BIOMED": {
+    "continent": "Europe",
+    "raw": "Budapest"
+  },
+  "BIOSIGNALS": {
+    "continent": "Europe",
+    "raw": "Marbella, Spain"
+  },
+  "BIR": {
+    "continent": "Europe",
+    "raw": "Olten, Solothurn, Switzerland"
+  },
+  "BIS": {
+    "continent": "Europe",
+    "raw": "Prague, Czech Republic"
+  },
+  "BMSB": {
+    "continent": "South America",
+    "raw": "Brazil"
+  },
+  "BMVC": {
+    "continent": "Europe",
+    "raw": "Lancaster, UK"
+  },
+  "BPM": {
+    "continent": "Europe",
+    "raw": "Seville, Spain"
+  },
+  "BTW": {
+    "continent": "Europe",
+    "raw": "Bamberg, Germany"
+  },
+  "BWCCA": {
+    "continent": "(unknown)",
+    "raw": "Online"
+  },
+  "BuildSys": {
+    "continent": "North America",
+    "raw": "Golden, Colorado, USA"
+  },
+  "CAD/GRAPHICS": {
+    "continent": "Asia",
+    "raw": "Yantai, Shandong, China"
+  },
+  "CAIP": {
+    "continent": "Europe",
+    "raw": "Las Palmas de Gran Canaria, Spain"
+  },
+  "CANS": {
+    "continent": "Asia",
+    "raw": "Osaka,Japan"
+  },
+  "CASCON": {
+    "continent": "North America",
+    "raw": "Greater Toronto Area, Ontario, Canada"
+  },
+  "CAV": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "CBI": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "CBMI": {
+    "continent": "Europe",
+    "raw": "Dublin"
+  },
+  "CBMS": {
+    "continent": "Europe",
+    "raw": "Limassol, Cyprus"
+  },
+  "CC": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "CCCG": {
+    "continent": "North America",
+    "raw": "Orillia, Ontario, Canada"
+  },
+  "CCDC": {
+    "continent": "Asia",
+    "raw": "Nanjing, China"
+  },
+  "CCGRID": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "CCNC": {
+    "continent": "North America",
+    "raw": "Las Vegas, NV, USA"
+  },
+  "CCS": {
+    "continent": "Asia",
+    "raw": "Taipei, Taiwan"
+  },
+  "CCSW": {
+    "continent": "Asia",
+    "raw": "Taipei, Taiwan"
+  },
+  "CEC": {
+    "continent": "Europe",
+    "raw": "Maastricht, The Netherlands"
+  },
+  "CF": {
+    "continent": "Europe",
+    "raw": "Catania, Sicily, Italy"
+  },
+  "CFP": {
+    "continent": "Asia",
+    "raw": "Shanghai, China"
+  },
+  "CGI": {
+    "continent": "Europe",
+    "raw": "London, UK"
+  },
+  "CGO": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "CHASE": {
+    "continent": "South America",
+    "raw": "Rio de Janeiro, Brazil"
+  },
+  "CHI": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
+  },
+  "CHIIR": {
+    "continent": "North America",
+    "raw": "Seattle, WA, USA"
+  },
+  "CHIRA": {
+    "continent": "Europe",
+    "raw": "Angers, France"
+  },
+  "CIAA": {
+    "continent": "Europe",
+    "raw": "Palermo"
+  },
+  "CIARP": {
+    "continent": "(unknown)",
+    "raw": "Ciudad de M\u00c3\u00a9xico"
+  },
+  "CIC": {
+    "continent": "North America",
+    "raw": "Pittsburgh, PA, USA"
+  },
+  "CIFEr": {
+    "continent": "Asia",
+    "raw": "Tokyo, Japan"
+  },
+  "CIKM": {
+    "continent": "North America",
+    "raw": "Boise, ID, USA"
+  },
+  "CITA": {
+    "continent": "Asia",
+    "raw": "Kuching,Sarawak, Malaysia"
+  },
+  "CLEF": {
+    "continent": "Europe",
+    "raw": "Madrid, Spain"
+  },
+  "CLIN": {
+    "continent": "Europe",
+    "raw": "Leuven, Belgium"
+  },
+  "CLOSER": {
+    "continent": "Europe",
+    "raw": "Benidorm, Spain"
+  },
+  "CLOUD": {
+    "continent": "Europe",
+    "raw": "Copenhagen, Denmark"
+  },
+  "CLUSTER": {
+    "continent": "Europe",
+    "raw": "Edinburgh, Scotland, United Kingdom"
+  },
+  "CMC": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "CMSB": {
+    "continent": "Europe",
+    "raw": "Lyon, France"
+  },
+  "CNSM": {
+    "continent": "Europe",
+    "raw": "Bologna"
+  },
+  "COCOA": {
+    "continent": "Asia",
+    "raw": "Tianjin, China"
+  },
+  "COCOON": {
+    "continent": "Asia",
+    "raw": "Singapore"
+  },
+  "CODASPY": {
+    "continent": "Europe",
+    "raw": "Frankfurt am Main, Germany"
+  },
+  "COG": {
+    "continent": "Europe",
+    "raw": "Madrid, Spain"
+  },
+  "COINE": {
+    "continent": "Europe",
+    "raw": "Paphos, Cyprus"
+  },
+  "COLING": {
+    "continent": "Asia",
+    "raw": "Abu Dhabi, UAE"
+  },
+  "COLT": {
+    "continent": "North America",
+    "raw": "San Diego, California"
+  },
+  "CONCUR": {
+    "continent": "Europe",
+    "raw": "Liverpool, United Kingdom"
+  },
+  "CONF-IRM": {
+    "continent": "Europe",
+    "raw": "Tallinn, Estonia"
+  },
+  "COSIT": {
+    "continent": "Europe",
+    "raw": "Zurich, Switzerland"
+  },
+  "CP": {
+    "continent": "Europe",
+    "raw": "Lisbon"
+  },
+  "CPAIOR": {
+    "continent": "Australia",
+    "raw": "Melbourne"
+  },
+  "CRV": {
+    "continent": "North America",
+    "raw": "Vancouver, British Columbia, Canada"
+  },
+  "CRiSIS": {
+    "continent": "North America",
+    "raw": "Gatineau, Canada"
+  },
+  "CSAE": {
+    "continent": "Asia",
+    "raw": "Shanghai"
+  },
+  "CSCLOUD": {
+    "continent": "Asia",
+    "raw": "Shanghai, China"
+  },
+  "CSCW": {
+    "continent": "North America",
+    "raw": "Salt Lake City, Utah, USA"
+  },
+  "CSEDU": {
+    "continent": "Europe",
+    "raw": "Benidorm, Spain"
+  },
+  "CSEE&T": {
+    "continent": "Europe",
+    "raw": "Florence, Italy"
+  },
+  "CSF": {
+    "continent": "North America",
+    "raw": "Santa Cruz, CA, USA"
+  },
+  "CSIT": {
+    "continent": "North America",
+    "raw": "Toronto, Canada"
+  },
+  "CSL": {
+    "continent": "Europe",
+    "raw": "Amsterdam"
+  },
+  "CSNDSP": {
+    "continent": "Europe",
+    "raw": "The University of Edinburgh, UK"
+  },
+  "CVMP": {
+    "continent": "Europe",
+    "raw": "London, UK"
+  },
+  "CVPR": {
+    "continent": "North America",
+    "raw": "Nashville, Tennessee"
+  },
+  "CW": {
+    "continent": "Asia",
+    "raw": "Jinzhong, China"
+  },
+  "CYBER": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
+  },
+  "CYBERC": {
+    "continent": "Asia",
+    "raw": "Taiyuan \u00e5\u00a4\u00aa\u00e5\u008e\u009f China"
+  },
+  "CoDIT": {
+    "continent": "Europe",
+    "raw": "Bari - Italy"
+  },
+  "CoNLL": {
+    "continent": "North America",
+    "raw": "San Diego, California, United States"
+  },
+  "CogSIMA": {
+    "continent": "(unknown)",
+    "raw": "Tempe, Arizona"
+  },
+  "CoopIS": {
+    "continent": "Europe",
+    "raw": "Angers, France"
+  },
+  "Coordination": {
+    "continent": "Europe",
+    "raw": "Urbino, Italy"
+  },
+  "DAC": {
+    "continent": "North America",
+    "raw": "Moscone Center West in San Francisco, CA"
+  },
+  "DAGM-PR": {
+    "continent": "Europe",
+    "raw": "Freiburg"
+  },
+  "DAIS": {
+    "continent": "Europe",
+    "raw": "Urbino, Italy"
+  },
+  "DASC": {
+    "continent": "Asia",
+    "raw": "Hakodate, Hokkaido, Japan"
+  },
+  "DASFAA": {
+    "continent": "Asia",
+    "raw": "Jeju, South Korea"
+  },
+  "DATA": {
+    "continent": "Europe",
+    "raw": "Porto, Portugal"
+  },
+  "DB&IS": {
+    "continent": "Europe",
+    "raw": "Tartu, Estonia"
+  },
+  "DBSEC": {
+    "continent": "North America",
+    "raw": "Arlington, Virginia, USA"
+  },
+  "DCAI": {
+    "continent": "Europe",
+    "raw": "Naples, Italy"
+  },
+  "DCOSS": {
+    "continent": "Europe",
+    "raw": "Reykjavik, Iceland"
+  },
+  "DEBS": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "DEXA": {
+    "continent": "Europe",
+    "raw": "Graz, Austria"
+  },
+  "DFT": {
+    "continent": "Europe",
+    "raw": "Barcelona"
+  },
+  "DIGRA": {
+    "continent": "Europe",
+    "raw": "Maynooth University, Maynooth, Ireland"
+  },
+  "DIMVA": {
+    "continent": "Europe",
+    "raw": "Graz,Austria"
+  },
+  "DIS": {
+    "continent": "Asia",
+    "raw": "Singapore"
+  },
+  "DISC": {
+    "continent": "Europe",
+    "raw": "Rome, Italy"
+  },
+  "DLT": {
+    "continent": "Europe",
+    "raw": "Rouen, France"
+  },
+  "DNA": {
+    "continent": "Europe",
+    "raw": "Lyon, France"
+  },
+  "DOLAP": {
+    "continent": "Europe",
+    "raw": "Tampere, Finland"
+  },
+  "DRCN": {
+    "continent": "Asia",
+    "raw": "Ningbo China"
+  },
+  "DS": {
+    "continent": "Europe",
+    "raw": "Mainz"
+  },
+  "DSAA": {
+    "continent": "Asia",
+    "raw": "New Delhi, India"
+  },
+  "DSD": {
+    "continent": "Europe",
+    "raw": "Krakow, Poland"
+  },
+  "DSN": {
+    "continent": "North America",
+    "raw": "Charlotte, USA"
+  },
+  "DYSPAN": {
+    "continent": "Europe",
+    "raw": "London"
+  },
+  "DaWaK": {
+    "continent": "Europe",
+    "raw": "Graz, Austria"
+  },
+  "E-ENERGY": {
+    "continent": "North America",
+    "raw": "Banff, Canada"
+  },
+  "EACL": {
+    "continent": "Africa",
+    "raw": "Rabat, Morocco"
+  },
+  "EAIT": {
+    "continent": "Asia",
+    "raw": "Hachioji, Tokyo, Japan"
+  },
+  "EAMT": {
+    "continent": "Europe",
+    "raw": "Tilburg, the Netherlands"
+  },
+  "EANN": {
+    "continent": "Europe",
+    "raw": "Crete city of Chania, Greece"
+  },
+  "ECAI": {
+    "continent": "Europe",
+    "raw": "Bologna, Italy"
+  },
+  "ECCV": {
+    "continent": "Europe",
+    "raw": "Malm\u00c3\u00b6, Sweden"
+  },
+  "ECIR": {
+    "continent": "(unknown)",
+    "raw": "Lucca Tuscany"
+  },
+  "ECIS": {
+    "continent": "Europe",
+    "raw": "Milan, Italy"
+  },
+  "ECMFA": {
+    "continent": "Europe",
+    "raw": "Rennes, France"
+  },
+  "ECML PKDD": {
+    "continent": "Europe",
+    "raw": "Naples"
+  },
+  "ECOOP": {
+    "continent": "Europe",
+    "raw": "Brussels, Belgium"
+  },
+  "ECRTS": {
+    "continent": "Europe",
+    "raw": "Lund, Sweden"
+  },
+  "ECSA": {
+    "continent": "(unknown)",
+    "raw": "5* St. Raphael Resort and Marina, Limass"
+  },
+  "ECSQARU": {
+    "continent": "Europe",
+    "raw": "Hagen, Germany"
+  },
+  "ECTI-CON": {
+    "continent": "(unknown)",
+    "raw": "Amari Bangsaen Chonburi"
+  },
+  "EDBT": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
+  },
+  "EDCC": {
+    "continent": "Europe",
+    "raw": "Lisboa"
+  },
+  "EDM": {
+    "continent": "Europe",
+    "raw": "Palermo, Sicily, Italy"
+  },
+  "EDOC": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "EEM": {
+    "continent": "Europe",
+    "raw": "Trondheim, Norway"
+  },
+  "EGOV": {
+    "continent": "Europe",
+    "raw": "Krems, Austria"
+  },
+  "EGSR": {
+    "continent": "Europe",
+    "raw": "Bordeaux, France"
+  },
+  "EGVE": {
+    "continent": "Europe",
+    "raw": "Karlskrona, Sweden"
+  },
+  "EICS": {
+    "continent": "Europe",
+    "raw": "Patras, Greece"
+  },
+  "EIT": {
+    "continent": "Asia",
+    "raw": "Chengdu, China"
+  },
+  "EKAW": {
+    "continent": "Europe",
+    "raw": "Torino, Italy"
+  },
+  "EMBC": {
+    "continent": "Europe",
+    "raw": "Copenhagen, Denmark"
+  },
+  "EMNLP": {
+    "continent": "Europe",
+    "raw": "Budapest, Hungary"
+  },
+  "EMSOFT": {
+    "continent": "Asia",
+    "raw": "Taipei, Taiwan"
+  },
+  "ENASE": {
+    "continent": "Europe",
+    "raw": "Benidorm, Spain"
+  },
+  "ENERGYTECH": {
+    "continent": "Asia",
+    "raw": "Tokyo,Japan"
+  },
+  "ER": {
+    "continent": "North America",
+    "raw": "St. John's, NL, Canada"
+  },
+  "ESA": {
+    "continent": "Europe",
+    "raw": "L\u00e2\u0080\u0099Aquila, Italy"
+  },
+  "ESANN": {
+    "continent": "Europe",
+    "raw": "Bruges, Belgium"
+  },
+  "ESORICS": {
+    "continent": "Europe",
+    "raw": "Rome"
+  },
+  "ESTC": {
+    "continent": "Europe",
+    "raw": "Helsinki, Finnland"
+  },
+  "ETS": {
+    "continent": "Europe",
+    "raw": "Tallinn, ESTONIA"
+  },
+  "EUCNC": {
+    "continent": "(unknown)",
+    "raw": "M\u00c3\u00a1laga"
+  },
+  "EUMAS": {
+    "continent": "Europe",
+    "raw": "Bucharest, Romania"
+  },
+  "EURO-PAR": {
+    "continent": "Europe",
+    "raw": "Pisa, Italy"
+  },
+  "EUROSIME": {
+    "continent": "Europe",
+    "raw": "Warsaw"
+  },
+  "EUSIPCO": {
+    "continent": "Europe",
+    "raw": "Isola delle Femmine, Palermo,  ITALY"
+  },
+  "EUSPN": {
+    "continent": "(unknown)",
+    "raw": "Istanbul, Turkiye"
+  },
+  "EWSN": {
+    "continent": "Europe",
+    "raw": "Dresden, Germany"
+  },
+  "EuroMPI": {
+    "continent": "Europe",
+    "raw": "Vienna"
+  },
+  "EuroS&P": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "EuroSys": {
+    "continent": "Europe",
+    "raw": "Edinburgh"
+  },
+  "EvoCOP": {
+    "continent": "Europe",
+    "raw": "Trieste, Italy"
+  },
+  "EvoMUSART": {
+    "continent": "Europe",
+    "raw": "Toulouse, France"
+  },
+  "FAST": {
+    "continent": "North America",
+    "raw": "Santa Clara, CA"
+  },
+  "FCT": {
+    "continent": "Europe",
+    "raw": "Wroc\u00c5\u0082aw, Poland"
+  },
+  "FIE": {
+    "continent": "Europe",
+    "raw": "Coral Beach Hotel, Paphos, Cyprus"
+  },
+  "FIT": {
+    "continent": "Asia",
+    "raw": "Islamabad"
+  },
+  "FLOPS": {
+    "continent": "Asia",
+    "raw": "Akita, Japan"
+  },
+  "FM": {
+    "continent": "Asia",
+    "raw": "Tokyo, Japan"
+  },
+  "FMCAD": {
+    "continent": "Europe",
+    "raw": "Graz, Austria"
+  },
+  "FNC": {
+    "continent": "Europe",
+    "raw": "Leuven, Belgium"
+  },
+  "FOIKS": {
+    "continent": "Europe",
+    "raw": "Hannover, Germany"
+  },
+  "FOIS": {
+    "continent": "South America",
+    "raw": "Vit\u00c3\u00b3ria, ES, Brazil"
+  },
+  "FPL": {
+    "continent": "Europe",
+    "raw": "Leiden, The Netherlands"
+  },
+  "FQAS": {
+    "continent": "Europe",
+    "raw": "Burgas (Bulgaria)"
+  },
+  "FRUCT": {
+    "continent": "Europe",
+    "raw": "Helsinki, Finland"
+  },
+  "FSE": {
+    "continent": "North America",
+    "raw": "Montreal, Canada"
+  },
+  "FUN": {
+    "continent": "Europe",
+    "raw": "Porquerolles, France"
+  },
+  "FUZZ-IEEE": {
+    "continent": "Europe",
+    "raw": "Maastricht, The Netherlands"
+  },
+  "FedCSIS": {
+    "continent": "Europe",
+    "raw": "Riga, Latvia"
+  },
+  "FlAIRS": {
+    "continent": "North America",
+    "raw": "Marco Island, FL USA"
+  },
+  "GCPR": {
+    "continent": "Europe",
+    "raw": "Siegen, Germany"
+  },
+  "GD": {
+    "continent": "Europe",
+    "raw": "Norrk\u00c3\u00b6ping, Sweden"
+  },
+  "GECCO": {
+    "continent": "North America",
+    "raw": "San Jose, Costa Rica"
+  },
+  "GECON": {
+    "continent": "Europe",
+    "raw": "Pisa, Italy"
+  },
+  "GHTC": {
+    "continent": "North America",
+    "raw": "Golden, CO, USA"
+  },
+  "GI": {
+    "continent": "North America",
+    "raw": "Kitchener-Waterloo, Canada"
+  },
+  "GLOBECOM": {
+    "continent": "Asia",
+    "raw": "Macau S.A.R., China"
+  },
+  "GLSVLSI": {
+    "continent": "North America",
+    "raw": "Finger Lakes, NY, USA"
+  },
+  "GMP": {
+    "continent": "Europe",
+    "raw": "Pilsen, Czech Republic"
+  },
+  "GPGPU": {
+    "continent": "North America",
+    "raw": "Pittsburg, USA"
+  },
+  "GREENCOM": {
+    "continent": "Asia",
+    "raw": "Zhengzhou"
+  },
+  "GWC": {
+    "continent": "Europe",
+    "raw": "Pavia, Italy"
+  },
+  "Group": {
+    "continent": "North America",
+    "raw": "Hilton Head Island, South Carolina, USA"
+  },
+  "HCW": {
+    "continent": "Europe",
+    "raw": "Milan, Italy"
+  },
+  "HEALTHINF": {
+    "continent": "Europe",
+    "raw": "Marbella, Spain"
+  },
+  "HICSS": {
+    "continent": "North America",
+    "raw": "Maui, Hawaii"
+  },
+  "HOST": {
+    "continent": "North America",
+    "raw": "Washington, D.C., USA"
+  },
+  "HPCA": {
+    "continent": "Australia",
+    "raw": "Sydney"
+  },
+  "HPCC": {
+    "continent": "Europe",
+    "raw": "Exeter, UK"
+  },
+  "HPDC": {
+    "continent": "North America",
+    "raw": "Cleveland, OH, USA"
+  },
+  "HPG": {
+    "continent": "Europe",
+    "raw": "Copenhagen, Denmark"
+  },
+  "HPSC": {
+    "continent": "North America",
+    "raw": "New York, USA"
+  },
+  "HUMANOIDS": {
+    "continent": "Asia",
+    "raw": "COEX, Seoul, Korea"
+  },
+  "HealthCom": {
+    "continent": "North America",
+    "raw": "New York City, New York"
+  },
+  "HotOS": {
+    "continent": "North America",
+    "raw": "Banff, Alberta, Canada"
+  },
+  "I-SOCIETY": {
+    "continent": "Europe",
+    "raw": "Churchill College, Cambridge, UK"
+  },
+  "I3D": {
+    "continent": "North America",
+    "raw": "San Francisco, USA"
+  },
+  "I3E": {
+    "continent": "(unknown)",
+    "raw": "5* St. Raphael Resort and Marina, Limass"
+  },
+  "I4CS": {
+    "continent": "Europe",
+    "raw": "Copenhagen, Denmark"
+  },
+  "IAAI": {
+    "continent": "Asia",
+    "raw": "Singapore"
+  },
+  "IBERAMIA": {
+    "continent": "(unknown)",
+    "raw": "Asunci\u00c3\u00b3n, Paraguay"
+  },
+  "IBPRIA": {
+    "continent": "Europe",
+    "raw": "Coimbra, Portugal"
+  },
+  "IC": {
+    "continent": "Asia",
+    "raw": "Penang, Malaysia"
+  },
+  "IC3": {
+    "continent": "Asia",
+    "raw": "Noida, India"
+  },
+  "ICA3PP": {
+    "continent": "Asia",
+    "raw": "Zhengzhou, Henan"
+  },
+  "ICAART": {
+    "continent": "Europe",
+    "raw": "Marbella, Spain"
+  },
+  "ICAC": {
+    "continent": "Europe",
+    "raw": "Loughborough, UK"
+  },
+  "ICACT": {
+    "continent": "Asia",
+    "raw": "Phoenix Park Hotel, Pyeong Chang, Korea"
+  },
+  "ICACTE": {
+    "continent": "Asia",
+    "raw": "Hangzhou, China"
+  },
+  "ICADL": {
+    "continent": "Asia",
+    "raw": "Manila, Philippines"
+  },
+  "ICAISC": {
+    "continent": "Europe",
+    "raw": "Zakopane, Poland"
+  },
+  "ICALP": {
+    "continent": "Europe",
+    "raw": "London, England, UK"
+  },
+  "ICANN": {
+    "continent": "Europe",
+    "raw": "Padua, Italy"
+  },
+  "ICAPS": {
+    "continent": "Australia",
+    "raw": "Melbourne, Australia"
+  },
+  "ICAS": {
+    "continent": "Europe",
+    "raw": "Valencia, Spain"
+  },
+  "ICASSP": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
+  },
+  "ICBBE": {
+    "continent": "Asia",
+    "raw": "Hokkaido, Japan"
+  },
+  "ICBC": {
+    "continent": "Australia",
+    "raw": "Brisbane, QLD, Australia"
+  },
+  "ICC": {
+    "continent": "Europe",
+    "raw": "Glasgow, Scotland, UK"
+  },
+  "ICCAD": {
+    "continent": "Europe",
+    "raw": "Munich, Germany"
+  },
+  "ICCAE": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "ICCBR": {
+    "continent": "Europe",
+    "raw": "Bremen"
+  },
+  "ICCC": {
+    "continent": "Asia",
+    "raw": "Chengdu, China"
+  },
+  "ICCCAS": {
+    "continent": "Asia",
+    "raw": "Takasaki, Gunma, Japan"
+  },
+  "ICCCT": {
+    "continent": "Asia",
+    "raw": "Goa, India"
+  },
+  "ICCD": {
+    "continent": "North America",
+    "raw": "Dallas, Texas, USA"
+  },
+  "ICCE": {
+    "continent": "Asia",
+    "raw": "Thai Nguyen, Vietnam"
+  },
+  "ICCE-BERLIN": {
+    "continent": "Asia",
+    "raw": "Nha Trang-VIETNAM"
+  },
+  "ICCGI": {
+    "continent": "Europe",
+    "raw": "Valencia, Spain"
+  },
+  "ICCI": {
+    "continent": "Asia",
+    "raw": "Hong Kong SAR, China"
+  },
+  "ICCIT": {
+    "continent": "Asia",
+    "raw": "Nanjing, China"
+  },
+  "ICCMS": {
+    "continent": "Asia",
+    "raw": "Hangzhou, China"
+  },
+  "ICCPS": {
+    "continent": "North America",
+    "raw": "Irvine, California, USA"
+  },
+  "ICCS": {
+    "continent": "Europe",
+    "raw": "Hamburg, Germany"
+  },
+  "ICCSA": {
+    "continent": "Europe",
+    "raw": "Braga, Portugal"
+  },
+  "ICCSIT": {
+    "continent": "Europe",
+    "raw": "Paris, France"
+  },
+  "ICCT": {
+    "continent": "Asia",
+    "raw": "Zhuhai, China"
+  },
+  "ICCTA": {
+    "continent": "Europe",
+    "raw": "Vienna, Austria"
+  },
+  "ICCV": {
+    "continent": "North America",
+    "raw": "Honolulu, Hawaii"
+  },
+  "ICDCIT": {
+    "continent": "Asia",
+    "raw": "Bhubaneswar, India"
+  },
+  "ICDCS": {
+    "continent": "Asia",
+    "raw": "Seoul, South Korea"
+  },
+  "ICDE": {
+    "continent": "Asia",
+    "raw": "Hong Kong SAR, China"
+  },
+  "ICDM": {
+    "continent": "Asia",
+    "raw": "Shenyang, Liaoning, China"
+  },
+  "ICDS": {
+    "continent": "Europe",
+    "raw": "Venice, Italy"
+  },
+  "ICDT": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
+  },
+  "ICEC": {
+    "continent": "Europe",
+    "raw": "Paris, France"
+  },
+  "ICECCS": {
+    "continent": "Asia",
+    "raw": "Chengdu, China"
+  },
+  "ICECS": {
+    "continent": "Africa",
+    "raw": "Marrakech, Morocco"
+  },
+  "ICEEI": {
+    "continent": "Asia",
+    "raw": "Bangkok, Thailand"
+  },
+  "ICEIS": {
+    "continent": "Europe",
+    "raw": "Benidorm, Spain"
+  },
+  "ICESS": {
+    "continent": "Europe",
+    "raw": "Exeter, UK"
+  },
+  "ICET": {
+    "continent": "Asia",
+    "raw": "Chengdu, China"
+  },
+  "ICETC": {
+    "continent": "Europe",
+    "raw": "Amsterdam, The Netherlands"
+  },
+  "ICFCC": {
+    "continent": "Asia",
+    "raw": "Fukuoka, Japan"
+  },
+  "ICFEC": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "ICFP": {
+    "continent": "North America",
+    "raw": "Indianapolis, Indiana, USA"
+  },
+  "ICGI": {
+    "continent": "Europe",
+    "raw": "Delft, the Netherlands"
+  },
+  "ICGT": {
+    "continent": "Europe",
+    "raw": "Rennes"
+  },
+  "ICHI": {
+    "continent": "North America",
+    "raw": "Minneapolis, Minnesota, USA"
+  },
+  "ICICA": {
+    "continent": "Europe",
+    "raw": "University of Cambridge, Cambridge, UK"
+  },
+  "ICICIP": {
+    "continent": "Asia",
+    "raw": "Muscat, Oman"
+  },
+  "ICICS": {
+    "continent": "Asia",
+    "raw": "Irbid, Jordan"
+  },
+  "ICICSE": {
+    "continent": "Asia",
+    "raw": "Chongqing, China"
+  },
+  "ICICT": {
+    "continent": "North America",
+    "raw": "Hawaii-Honolulu, USA"
+  },
+  "ICIEA": {
+    "continent": "Europe",
+    "raw": "Catania, Italy"
+  },
+  "ICIIP": {
+    "continent": "Asia",
+    "raw": "Hokkaido, Japan"
+  },
+  "ICIIS": {
+    "continent": "Asia",
+    "raw": "Jinan, China/Kuala Lumpur, Malaysia"
+  },
+  "ICIME": {
+    "continent": "Asia",
+    "raw": "Yokohama, Japan"
+  },
+  "ICIMP": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "ICIN": {
+    "continent": "Europe",
+    "raw": "Athens, Greece"
+  },
+  "ICINCO": {
+    "continent": "Europe",
+    "raw": "Angers, France"
+  },
+  "ICIP": {
+    "continent": "Europe",
+    "raw": "Tampere, Finland"
+  },
+  "ICISC": {
+    "continent": "Asia",
+    "raw": "Seoul, Korea"
+  },
+  "ICISS": {
+    "continent": "Asia",
+    "raw": "Chhattisgrah, India"
+  },
+  "ICISSP": {
+    "continent": "Europe",
+    "raw": "Marbella, Spain"
+  },
+  "ICIT": {
+    "continent": "North America",
+    "raw": "Monterrey, Mexico"
+  },
+  "ICITA": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "ICITS": {
+    "continent": "Asia",
+    "raw": "Fukuoka, Japan"
+  },
+  "ICITST": {
+    "continent": "Europe",
+    "raw": "St Anne's College, Oxford, UK"
+  },
+  "ICIW": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "ICLP": {
+    "continent": "Europe",
+    "raw": "Rende, Italy"
+  },
+  "ICLR": {
+    "continent": "(unknown)",
+    "raw": "TBA"
+  },
+  "ICML": {
+    "continent": "Asia",
+    "raw": "Seoul, South Korea"
+  },
+  "ICMLA": {
+    "continent": "North America",
+    "raw": "Rochester, MI"
+  },
+  "ICMLC": {
+    "continent": "Asia",
+    "raw": "Nanjing, China"
+  },
+  "ICMMT": {
+    "continent": "Asia",
+    "raw": "Tokyo, Japan"
+  },
+  "ICMR": {
+    "continent": "Europe",
+    "raw": "Amsterdam"
+  },
+  "ICMV": {
+    "continent": "Europe",
+    "raw": "Budapest, Hungary"
+  },
+  "ICNC": {
+    "continent": "Asia",
+    "raw": "Hohhot, Inner Mongolia, China"
+  },
+  "ICNLP": {
+    "continent": "Asia",
+    "raw": "Xi'an, China"
+  },
+  "ICNP": {
+    "continent": "Asia",
+    "raw": "Seoul, South Korea"
+  },
+  "ICNS": {
+    "continent": "Europe",
+    "raw": "Valencia, Spain"
+  },
+  "ICOIN": {
+    "continent": "Asia",
+    "raw": "Hanoi, Vietnam"
+  },
+  "ICONIP": {
+    "continent": "Asia",
+    "raw": "Okinawa, Japan"
+  },
+  "ICONS": {
+    "continent": "Europe",
+    "raw": "Venice, Italy"
+  },
+  "ICORES": {
+    "continent": "Europe",
+    "raw": "Marbella, Spain"
+  },
+  "ICPADS": {
+    "continent": "Asia",
+    "raw": "Tokyo, Japan"
+  },
+  "ICPC": {
+    "continent": "North America",
+    "raw": "Ottawa - Canada"
+  },
+  "ICPE": {
+    "continent": "Europe",
+    "raw": "Florence, Italy"
+  },
+  "ICPM": {
+    "continent": "South America",
+    "raw": "Montevideo, Uruguay"
+  },
+  "ICPP": {
+    "continent": "Asia",
+    "raw": "Singapore"
+  },
+  "ICPR": {
+    "continent": "Europe",
+    "raw": "Lyon, France"
+  },
+  "ICPRAM": {
+    "continent": "Europe",
+    "raw": "Marbella, Spain"
+  },
+  "ICRA": {
+    "continent": "Europe",
+    "raw": "Vienna, Austria"
+  },
+  "ICS": {
+    "continent": "Europe",
+    "raw": "Belfast, Northern Ireland, UK"
+  },
+  "ICSA": {
+    "continent": "Europe",
+    "raw": "Amsterdam, The Netherlands"
+  },
+  "ICSE": {
+    "continent": "South America",
+    "raw": "Rio de Janeiro, Brazil"
+  },
+  "ICSEA": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
+  },
+  "ICSEng": {
+    "continent": "North America",
+    "raw": "Las Vegas, NV, USA"
+  },
+  "ICSI": {
+    "continent": "Asia",
+    "raw": "Chengdu, China"
+  },
+  "ICSIP": {
+    "continent": "Asia",
+    "raw": "Changzhou, China"
+  },
+  "ICSNC": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
+  },
+  "ICSOB": {
+    "continent": "Europe",
+    "raw": "Stuttgart, Germany"
+  },
+  "ICSOC": {
+    "continent": "Asia",
+    "raw": "Shenzhen, China"
+  },
+  "ICSP": {
+    "continent": "Asia",
+    "raw": "Hefei, China"
+  },
+  "ICSPCS": {
+    "continent": "Asia",
+    "raw": "Lhasa, China"
+  },
+  "ICSPS": {
+    "continent": "Asia",
+    "raw": "Xiamen, China"
+  },
+  "ICST": {
+    "continent": "Asia",
+    "raw": "Daejeon, South Korea"
+  },
+  "ICSoft": {
+    "continent": "Europe",
+    "raw": "Porto, Portugal"
+  },
+  "ICT4AWE": {
+    "continent": "Europe",
+    "raw": "Benidorm, Spain"
+  },
+  "ICTAC": {
+    "continent": "South America",
+    "raw": "Bariloche, Argentina"
+  },
+  "ICTAI": {
+    "continent": "Europe",
+    "raw": "Athens, Greece"
+  },
+  "ICTC": {
+    "continent": "Asia",
+    "raw": "Nanjing, China"
+  },
+  "ICTSS": {
+    "continent": "(unknown)",
+    "raw": "5* St. Raphael Resort and Marina, Limass"
+  },
+  "ICUAS": {
+    "continent": "Europe",
+    "raw": "Corfu, Greece"
+  },
+  "ICVGIP": {
+    "continent": "Asia",
+    "raw": "IIT Mandi, Himachal Pradesh, India"
+  },
+  "ICVR": {
+    "continent": "Europe",
+    "raw": "Cardiff University, Cardiff, UK"
+  },
+  "ICWMC": {
+    "continent": "Europe",
+    "raw": "Valencia, Spain"
+  },
+  "ICWS": {
+    "continent": "Europe",
+    "raw": "Helsinki, Finland"
+  },
+  "ICWSM": {
+    "continent": "North America",
+    "raw": "Los Angeles, CA, USA"
+  },
+  "IDA": {
+    "continent": "Europe",
+    "raw": "Leiden"
+  },
+  "IDC": {
+    "continent": "Europe",
+    "raw": "Thessaloniki, Greece"
+  },
+  "IDEAL": {
+    "continent": "Europe",
+    "raw": "Manchester"
+  },
+  "IDEAS": {
+    "continent": "North America",
+    "raw": "Montreal, Canada"
+  },
+  "IE": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "IEA-AIE": {
+    "continent": "Asia",
+    "raw": "Kuala Lumpur, Malaysia"
+  },
+  "IEEE SEC": {
+    "continent": "North America",
+    "raw": "Washington D.C."
+  },
+  "IEMDC": {
+    "continent": "North America",
+    "raw": "Houston, TX"
+  },
+  "IFIP SEC": {
+    "continent": "Europe",
+    "raw": "Maribor, Slovenia"
+  },
+  "IFIP-DSS": {
+    "continent": "Europe",
+    "raw": "Exeter, UK"
+  },
+  "IFL": {
+    "continent": "South America",
+    "raw": "Montevideo, Uruguay"
+  },
+  "IFM": {
+    "continent": "Europe",
+    "raw": "Paris, France"
+  },
+  "IFSA": {
+    "continent": "North America",
+    "raw": "Banff, Alberta, Canada"
+  },
+  "IGARSS": {
+    "continent": "Australia",
+    "raw": "Brisbane, Australia"
+  },
+  "IHCI": {
+    "continent": "Europe",
+    "raw": "Valencia, Spain"
+  },
+  "IISWC": {
+    "continent": "North America",
+    "raw": "Boulder, USA"
+  },
+  "IIWAS": {
+    "continent": "Asia",
+    "raw": "Bangkok, Thailand"
+  },
+  "IJCAI": {
+    "continent": "Europe",
+    "raw": "Bremen, Germany"
+  },
+  "IJCNN": {
+    "continent": "Europe",
+    "raw": "Rome, Italy"
+  },
+  "IJCRS (was RSCTC)": {
+    "continent": "Europe",
+    "raw": "C\u00c3\u00a1diz, Spain"
+  },
+  "IMC": {
+    "continent": "Europe",
+    "raw": "Karlsruhe, Germany"
+  },
+  "IMPACT": {
+    "continent": "Europe",
+    "raw": "Rome, IT (in-person and virtual)"
+  },
+  "INES": {
+    "continent": "Europe",
+    "raw": "Budapest, Hungary"
+  },
+  "INFOCOM": {
+    "continent": "Europe",
+    "raw": "London, UK"
+  },
+  "INFOCOM WKSHPS": {
+    "continent": "Europe",
+    "raw": "London, United Kingdom"
+  },
+  "INFOCOMP": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "INISTA": {
+    "continent": "Asia",
+    "raw": "Ras Al-Khaimah \u00e2\u0080\u0093 UAE"
+  },
+  "INLG": {
+    "continent": "Asia",
+    "raw": "Hanoi, Vietnam"
+  },
+  "IOLTS": {
+    "continent": "Europe",
+    "raw": "Ischia, Italy"
+  },
+  "IOT": {
+    "continent": "Europe",
+    "raw": "Vienna, Austria"
+  },
+  "IPCCC": {
+    "continent": "North America",
+    "raw": "Austin"
+  },
+  "IPCO": {
+    "continent": "North America",
+    "raw": "Baltimore"
+  },
+  "IPDPS": {
+    "continent": "North America",
+    "raw": "New Orleans, USA"
+  },
+  "IPEC": {
+    "continent": "Europe",
+    "raw": "Warsaw, Poland"
+  },
+  "IPIN": {
+    "continent": "Europe",
+    "raw": "Tampere (FI) and online"
+  },
+  "IPMU": {
+    "continent": "Europe",
+    "raw": "Rome, Italy"
+  },
+  "IRI": {
+    "continent": "North America",
+    "raw": "Seattle, WA, USA"
+  },
+  "IROS": {
+    "continent": "North America",
+    "raw": "Pittsburgh"
+  },
+  "ISAAC": {
+    "continent": "Asia",
+    "raw": "Tainan, Taiwan"
+  },
+  "ISADS": {
+    "continent": "North America",
+    "raw": "Tucson, Arizona"
+  },
+  "ISAI": {
+    "continent": "Asia",
+    "raw": "Phuket, Thailand"
+  },
+  "ISAIM": {
+    "continent": "North America",
+    "raw": "Fort Lauderdale, Florida, USA"
+  },
+  "ISC": {
+    "continent": "Europe",
+    "raw": "Hamburg, Germany"
+  },
+  "ISCA": {
+    "continent": "North America",
+    "raw": "Raleigh, NC"
+  },
+  "ISCO": {
+    "continent": "Asia",
+    "raw": "Kusadasi, Turkey"
+  },
+  "ISD": {
+    "continent": "Europe",
+    "raw": "Czechia, Prague"
+  },
+  "ISDA": {
+    "continent": "Africa",
+    "raw": "FST Settat"
+  },
+  "ISEC": {
+    "continent": "Asia",
+    "raw": "IIS (deemed to be University), Jaipur, I"
+  },
+  "ISI": {
+    "continent": "Asia",
+    "raw": "Hong Kong, China"
+  },
+  "ISIEA": {
+    "continent": "Asia",
+    "raw": "Concorde Hotel, Kuala Lumpur, Malaysia"
+  },
+  "ISIPTA": {
+    "continent": "Europe",
+    "raw": "Bielefeld, Germany"
+  },
+  "ISLPED": {
+    "continent": "North America",
+    "raw": "Chicago, IL, USA"
+  },
+  "ISM": {
+    "continent": "North America",
+    "raw": "Laguna Hills, CA"
+  },
+  "ISMAR": {
+    "continent": "Europe",
+    "raw": "Bari, Italy"
+  },
+  "ISMIS": {
+    "continent": "Europe",
+    "raw": "Lyon, France"
+  },
+  "ISNCC": {
+    "continent": "Europe",
+    "raw": "Paris - France"
+  },
+  "ISNN": {
+    "continent": "Asia",
+    "raw": "Hanzhong, Shaanxi, China"
+  },
+  "ISOCC": {
+    "continent": "Asia",
+    "raw": "Busan, South Korea"
+  },
+  "ISORC": {
+    "continent": "North America",
+    "raw": "Hamilton, Canada"
+  },
+  "ISPA": {
+    "continent": "Europe",
+    "raw": "Coimbra, Portugal"
+  },
+  "ISPASS": {
+    "continent": "Asia",
+    "raw": "Seoul, South Korea"
+  },
+  "ISPD": {
+    "continent": "Europe",
+    "raw": "Bonn, Germany"
+  },
+  "ISPDC": {
+    "continent": "Europe",
+    "raw": "DESY, Hamburg, Germany"
+  },
+  "ISPEC": {
+    "continent": "Asia",
+    "raw": "Chengdu"
+  },
+  "ISQED": {
+    "continent": "North America",
+    "raw": "San Francisco, CA"
+  },
+  "ISS": {
+    "continent": "Europe",
+    "raw": "Turin"
+  },
+  "ISSRE": {
+    "continent": "(unknown)",
+    "raw": "5* St. Raphael Resort and Marina Limasso"
+  },
+  "ISSTA": {
+    "continent": "Europe",
+    "raw": "Trondheim, Norway"
+  },
+  "ISVC": {
+    "continent": "North America",
+    "raw": "Las Vegas, Nevada, USA"
+  },
+  "ISVLSI": {
+    "continent": "Europe",
+    "raw": "Kalamata, Greece"
+  },
+  "ISWC": {
+    "continent": "Asia",
+    "raw": "Nara, Japan"
+  },
+  "ITCC": {
+    "continent": "Asia",
+    "raw": "Tokyo, Japan"
+  },
+  "ITCS": {
+    "continent": "Europe",
+    "raw": "Bocconi University, Milan, Italy"
+  },
+  "ITI": {
+    "continent": "Asia",
+    "raw": "NIT Agartala, India"
+  },
+  "ITNAC": {
+    "continent": "Australia",
+    "raw": "Christchurch, New Zealand"
+  },
+  "ITNG": {
+    "continent": "(unknown)",
+    "raw": "Las Vegas"
+  },
+  "ITSC": {
+    "continent": "Europe",
+    "raw": "Naples, Italy"
+  },
+  "IUI": {
+    "continent": "Europe",
+    "raw": "Paphos, Cyprus"
+  },
+  "IUKM": {
+    "continent": "Asia",
+    "raw": "Ho Chi Minh City, Vietnam"
+  },
+  "IV": {
+    "continent": "Europe",
+    "raw": "London"
+  },
+  "IVA": {
+    "continent": "North America",
+    "raw": "Puebla, Mexico"
+  },
+  "IVCNZ": {
+    "continent": "Australia",
+    "raw": "Wellington, New Zealand"
+  },
+  "IWANN": {
+    "continent": "Europe",
+    "raw": "A Coru\u00c3\u00b1a, Spain"
+  },
+  "IWOCA": {
+    "continent": "Europe",
+    "raw": "Clermont-Ferrand (France)"
+  },
+  "IWOMP": {
+    "continent": "North America",
+    "raw": "Charlotte"
+  },
+  "IWSEC": {
+    "continent": "Asia",
+    "raw": "Fukuoka, Japan"
+  },
+  "IoTBDS": {
+    "continent": "Europe",
+    "raw": "Benidorm, Spain"
+  },
+  "JCDL": {
+    "continent": "(unknown)",
+    "raw": "Virtual"
+  },
+  "JCIS": {
+    "continent": "Europe",
+    "raw": "C\u00c3\u00b3rdoba, Spain"
+  },
+  "JELIA": {
+    "continent": "Asia",
+    "raw": "Kutaisi, Georgia"
+  },
+  "KDD": {
+    "continent": "Asia",
+    "raw": "Jeju, Korea"
+  },
+  "KEOD": {
+    "continent": "Europe",
+    "raw": "Angers, France"
+  },
+  "KES": {
+    "continent": "Europe",
+    "raw": "Dublin, Ireland"
+  },
+  "KR": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "KSEM": {
+    "continent": "Asia",
+    "raw": "Beijing"
+  },
+  "KV": {
+    "continent": "Europe",
+    "raw": "London-UK"
+  },
+  "LAK": {
+    "continent": "Europe",
+    "raw": "Bergen, Norway"
+  },
+  "LATIN": {
+    "continent": "South America",
+    "raw": "Florian\u00c3\u00b3polis-Brazil"
+  },
+  "LATINCOM": {
+    "continent": "North America",
+    "raw": "La Antigua, Guatemala"
+  },
+  "LCN": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "LCTES": {
+    "continent": "North America",
+    "raw": "Boulder, Colorado, United States"
+  },
+  "LDK": {
+    "continent": "Europe",
+    "raw": "Naples, Italy"
+  },
+  "LICS": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "LIGHTSEC": {
+    "continent": "Asia",
+    "raw": "Istanbul, Turkey"
+  },
+  "LION": {
+    "continent": "Europe",
+    "raw": "Milan, Italy"
+  },
+  "LOPSTR": {
+    "continent": "Europe",
+    "raw": "Rende, Italy"
+  },
+  "LPNMR": {
+    "continent": "Europe",
+    "raw": "Klagenfurt, Austria"
+  },
+  "LREC": {
+    "continent": "Europe",
+    "raw": "Palma, Mallorca, Spain"
+  },
+  "MASS": {
+    "continent": "Asia",
+    "raw": "Hong Kong"
+  },
+  "MEDES": {
+    "continent": "Asia",
+    "raw": "Ho Chi Minh, Vietnam"
+  },
+  "MFCS": {
+    "continent": "Europe",
+    "raw": "Warsaw, Poland"
+  },
+  "MICRO": {
+    "continent": "Europe",
+    "raw": "Athens, Greece"
+  },
+  "MIG": {
+    "continent": "Europe",
+    "raw": "Zurich, Switzerland"
+  },
+  "MIPRO": {
+    "continent": "Europe",
+    "raw": "Opatija, Croatia"
+  },
+  "MIS4TEL": {
+    "continent": "Europe",
+    "raw": "Naples, Italy"
+  },
+  "MMEDIA": {
+    "continent": "Europe",
+    "raw": "Venice, Italy"
+  },
+  "MMM": {
+    "continent": "Europe",
+    "raw": "Prague, CZ"
+  },
+  "MMSYS": {
+    "continent": "Asia",
+    "raw": "Hong Kong SAR"
+  },
+  "MOBICASE": {
+    "continent": "Asia",
+    "raw": "Hainan, Lingshui, China"
+  },
+  "MOBICOM": {
+    "continent": "Asia",
+    "raw": "Hong Kong, China"
+  },
+  "MOBILITY": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "MODELSWARD": {
+    "continent": "Europe",
+    "raw": "Marbella, Spain"
+  },
+  "MOMM": {
+    "continent": "Asia",
+    "raw": "Bangkok, Thailand"
+  },
+  "MSST": {
+    "continent": "North America",
+    "raw": "Santa Clara, CA, USA"
+  },
+  "MSWIM": {
+    "continent": "Europe",
+    "raw": "Paris, France"
+  },
+  "MUM": {
+    "continent": "Europe",
+    "raw": "Enna, Italy"
+  },
+  "MVA": {
+    "continent": "Asia",
+    "raw": "Kyoto, Japan"
+  },
+  "MWSCAS": {
+    "continent": "North America",
+    "raw": "Lansing, Michigan USA"
+  },
+  "Middleware": {
+    "continent": "(unknown)",
+    "raw": "Universitat Rovira i Virgili"
+  },
+  "MobiSPC": {
+    "continent": "Europe",
+    "raw": "Leuven, Belgium"
+  },
+  "MobileHCI": {
+    "continent": "Europe",
+    "raw": "Swansea Wales, UK"
+  },
+  "Mobisys": {
+    "continent": "North America",
+    "raw": "Anaheim, California, US"
+  },
+  "NAACL": {
+    "continent": "North America",
+    "raw": "Albuquerque, New Mexico"
+  },
+  "NAFIPS": {
+    "continent": "North America",
+    "raw": "El Paso, Texas, USA"
+  },
+  "NANO": {
+    "continent": "Asia",
+    "raw": "Nanjing, China"
+  },
+  "NCA": {
+    "continent": "Europe",
+    "raw": "Ortigia-Syracuse (Sicily), Italy"
+  },
+  "NDSS": {
+    "continent": "North America",
+    "raw": "San Diego"
+  },
+  "NFM": {
+    "continent": "North America",
+    "raw": "Los Angeles, CA"
+  },
+  "NLDB": {
+    "continent": "Europe",
+    "raw": "Trondheim"
+  },
+  "NMR": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "NORDSEC": {
+    "continent": "Europe",
+    "raw": "Tartu, Estonia"
+  },
+  "NOSSDAV": {
+    "continent": "Africa",
+    "raw": "Stellenbosch, South Africa"
+  },
+  "NPC": {
+    "continent": "Asia",
+    "raw": "Nha Trang, Vietnam"
+  },
+  "NTMS": {
+    "continent": "Europe",
+    "raw": "Paris, France"
+  },
+  "NetSoft": {
+    "continent": "Europe",
+    "raw": "Budapest, Hungary"
+  },
+  "Networking": {
+    "continent": "Europe",
+    "raw": "Limassol - Cyprus"
+  },
+  "NeurIPS": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "NordiCHI": {
+    "continent": "Europe",
+    "raw": "Vaasa Finland"
+  },
+  "OCEANS": {
+    "continent": "Europe",
+    "raw": "Brest, France"
+  },
+  "OOPSLA": {
+    "continent": "Asia",
+    "raw": "Singapore"
+  },
+  "OPODIS": {
+    "continent": "Europe",
+    "raw": "Ia\u00c8\u0099i, Romania"
+  },
+  "OSDI": {
+    "continent": "North America",
+    "raw": "Boston, MA, USA"
+  },
+  "PAAMS": {
+    "continent": "Europe",
+    "raw": "Naples, Italy"
+  },
+  "PACBB": {
+    "continent": "Europe",
+    "raw": "Naples, Italy"
+  },
+  "PACT": {
+    "continent": "North America",
+    "raw": "Chicago, Illinois, USA"
+  },
+  "PAKDD": {
+    "continent": "Asia",
+    "raw": "Hong Kong"
+  },
+  "PAM": {
+    "continent": "(unknown)",
+    "raw": "Online"
+  },
+  "PARCO": {
+    "continent": "(unknown)",
+    "raw": "N/A"
+  },
+  "PCS": {
+    "continent": "Europe",
+    "raw": "Aachen, Germany"
+  },
+  "PDCAT": {
+    "continent": "Australia",
+    "raw": "Gold Coast, Australia"
+  },
+  "PDP": {
+    "continent": "Europe",
+    "raw": "Cluj-Napoca"
+  },
+  "PDSW": {
+    "continent": "North America",
+    "raw": "St. Louis, MO, USA"
+  },
+  "PEMWN": {
+    "continent": "Europe",
+    "raw": "Paris, France"
+  },
+  "PERCOM": {
+    "continent": "Europe",
+    "raw": "Pisa"
+  },
+  "PERDIS": {
+    "continent": "Europe",
+    "raw": "Munich, Germany"
+  },
+  "PERSUASIVE": {
+    "continent": "(unknown)",
+    "raw": "5* St. Raphael Resort and Marina, Limass"
+  },
+  "PES": {
+    "continent": "North America",
+    "raw": "Montreal, Canada"
+  },
+  "PESA": {
+    "continent": "Asia",
+    "raw": "Singapore"
+  },
+  "PG": {
+    "continent": "Asia",
+    "raw": "singapore"
+  },
+  "PKAW": {
+    "continent": "Australia",
+    "raw": "Wellington, New Zealand"
+  },
+  "PLDI": {
+    "continent": "Asia",
+    "raw": "Seoul, South Korea"
+  },
+  "PLOS": {
+    "continent": "Europe",
+    "raw": "Prague, Czechia"
+  },
+  "PODC": {
+    "continent": "Europe",
+    "raw": "Egham, England"
+  },
+  "POPL": {
+    "continent": "Europe",
+    "raw": "Rennes, France"
+  },
+  "POWERTECH": {
+    "continent": "Europe",
+    "raw": "Bruges, Belgium"
+  },
+  "PPAM": {
+    "continent": "Europe",
+    "raw": "Poznan, Poland"
+  },
+  "PPSN": {
+    "continent": "Europe",
+    "raw": "Trento, Italy"
+  },
+  "PPoPP": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "PREMI": {
+    "continent": "Asia",
+    "raw": "Delhi"
+  },
+  "PRICAI": {
+    "continent": "Asia",
+    "raw": "Guangzhou, China"
+  },
+  "PRIMA": {
+    "continent": "Europe",
+    "raw": "Modena"
+  },
+  "PROMISE": {
+    "continent": "Europe",
+    "raw": "Trondheim, Norway"
+  },
+  "PROPOR": {
+    "continent": "South America",
+    "raw": "Salvador, Brazil"
+  },
+  "PSC": {
+    "continent": "Europe",
+    "raw": "Prague, Czech Republic"
+  },
+  "PSD": {
+    "continent": "Europe",
+    "raw": "Cadiz, Spain"
+  },
+  "PST": {
+    "continent": "North America",
+    "raw": "Ottawa, Canada"
+  },
+  "Petri Nets": {
+    "continent": "Europe",
+    "raw": "Hamburg, Germany"
+  },
+  "ProvSec": {
+    "continent": "Australia",
+    "raw": "Queenstown, New Zealand"
+  },
+  "QRS": {
+    "continent": "Europe",
+    "raw": "Florence, Italy"
+  },
+  "QUATIC": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
+  "QoMEX": {
+    "continent": "Europe",
+    "raw": "Cardiff, UK"
+  },
+  "RADIOELEKTRONIKA": {
+    "continent": "Europe",
+    "raw": "Hradec nad Moravic\u00c3\u00ad"
+  },
+  "RAID": {
+    "continent": "Europe",
+    "raw": "Lancaster, United Kingdom"
+  },
+  "RANLP": {
+    "continent": "Europe",
+    "raw": "Varna, Bulgaria"
+  },
+  "RC": {
+    "continent": "Europe",
+    "raw": "Torino"
+  },
+  "RCIS": {
+    "continent": "Europe",
+    "raw": "Seville, Spain"
+  },
+  "RE": {
+    "continent": "Europe",
+    "raw": "Valencia, Spain"
+  },
+  "ROBIO": {
+    "continent": "Asia",
+    "raw": "Chengdu, China"
+  },
+  "RTA": {
+    "continent": "Europe",
+    "raw": "Tirana, Albania"
+  },
+  "RTAS": {
+    "continent": "North America",
+    "raw": "Irvine, USA"
+  },
+  "RTCSA": {
+    "continent": "Asia",
+    "raw": "Qingdao, China"
+  },
+  "RTNS": {
+    "continent": "Europe",
+    "raw": "Pisa, Italy"
+  },
+  "RTSS": {
+    "continent": "North America",
+    "raw": "Boston, MA, USA"
+  },
+  "RV": {
+    "continent": "Europe",
+    "raw": "Graz, Austria"
+  },
+  "RecSys": {
+    "continent": "North America",
+    "raw": "Minneapolis, Minnesota, USA"
+  },
+  "S&P": {
+    "continent": "North America",
+    "raw": "SAN FRANCISCO, CA"
+  },
+  "SAC": {
+    "continent": "Europe",
+    "raw": "Thessaloniki, Greece"
+  },
+  "SACI": {
+    "continent": "Europe",
+    "raw": "Budapest, Hungary"
+  },
+  "SAFECOMP": {
+    "continent": "Europe",
+    "raw": "Valencia, Spain"
+  },
+  "SAMI": {
+    "continent": "Europe",
+    "raw": "Stara Lesna, Slovakia"
+  },
+  "SANER": {
+    "continent": "(unknown)",
+    "raw": "5* St. Raphael Resort and Marina, Limass"
+  },
+  "SBAC-PAD": {
+    "continent": "Europe",
+    "raw": "Madrid,Spain"
+  },
+  "SC": {
+    "continent": "(unknown)",
+    "raw": "St. Louis, MO"
+  },
+  "SCA": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
+  },
+  "SCN": {
+    "continent": "Europe",
+    "raw": "Amalfi (SA) - Italy"
+  },
+  "SDE": {
+    "continent": "Europe",
+    "raw": "University Lyon 1, Lyon, France"
+  },
+  "SDM": {
+    "continent": "(unknown)",
+    "raw": "The Westin Alexandria Old Town Hotel | A"
+  },
+  "SEAA": {
+    "continent": "Europe",
+    "raw": "Krakow, Poland"
+  },
+  "SEKE": {
+    "continent": "North America",
+    "raw": "Toronto, Canada"
+  },
+  "SENSORS": {
+    "continent": "(unknown)",
+    "raw": "N/A"
+  },
+  "SENSYS": {
+    "continent": "Europe",
+    "raw": "Saint Malo, France"
+  },
+  "SERA": {
+    "continent": "North America",
+    "raw": "Las Vegas, Nevada, USA"
+  },
+  "SERVICES": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
+  "SETTA": {
+    "continent": "Europe",
+    "raw": "Oxford, United Kingdom"
+  },
+  "SGAI": {
+    "continent": "Asia",
+    "raw": "Nanchang, China"
+  },
+  "SGP": {
+    "continent": "Europe",
+    "raw": "Bern, Switzerland"
+  },
+  "SIGCOMM": {
+    "continent": "Europe",
+    "raw": "Coimbra, Portugal"
+  },
+  "SIGIR": {
+    "continent": "Australia",
+    "raw": "Melbourne, Naarm, Australia"
+  },
+  "SIGMETRICS": {
+    "continent": "North America",
+    "raw": "Stony Brook, New York, USA"
+  },
+  "SIGSPATIAL": {
+    "continent": "North America",
+    "raw": "Minneapolis, MN, USA"
+  },
+  "SIGdial": {
+    "continent": "North America",
+    "raw": "Atlanta, GA, USA"
+  },
+  "SIMUL": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
+  },
+  "SIMULTECH": {
+    "continent": "Europe",
+    "raw": "Porto, Portugal"
+  },
+  "SIPS": {
+    "continent": "Asia",
+    "raw": "Hong Kong"
+  },
+  "SIROCCO": {
+    "continent": "Europe",
+    "raw": "Durham, UK"
+  },
+  "SISAP": {
+    "continent": "Europe",
+    "raw": "Reykjavik, Iceland."
+  },
+  "SISY": {
+    "continent": "Europe",
+    "raw": "Pula, Croatia"
+  },
+  "SLATE": {
+    "continent": "Europe",
+    "raw": "Faro, Portugal"
+  },
+  "SLE": {
+    "continent": "Europe",
+    "raw": "Rennes, France"
+  },
+  "SMC": {
+    "continent": "(unknown)",
+    "raw": "Bellevue, WA"
+  },
+  "SMI": {
+    "continent": "Asia",
+    "raw": "Istanbul, Turkey"
+  },
+  "SNS": {
+    "continent": "Asia",
+    "raw": "Chengdu, China"
+  },
+  "SODA": {
+    "continent": "North America",
+    "raw": "Vancouver, Canada"
+  },
+  "SOFSEM": {
+    "continent": "(unknown)",
+    "raw": "Krak\u00c3\u00b3w"
+  },
+  "SOSE": {
+    "continent": "(unknown)",
+    "raw": "Elsevier"
+  },
+  "SOSP": {
+    "continent": "Europe",
+    "raw": "Prague, Czechia"
+  },
+  "SPAA": {
+    "continent": "North America",
+    "raw": "Portland, Oregon, USA"
+  },
+  "SPAWC": {
+    "continent": "Europe",
+    "raw": "Athens, Greece"
+  },
+  "SPIRE": {
+    "continent": "North America",
+    "raw": "McMaster University, Hamilton, Canada"
+  },
+  "SPLC": {
+    "continent": "Europe",
+    "raw": "A Coru\u00c3\u00b1a, Spain"
+  },
+  "SRDS": {
+    "continent": "Europe",
+    "raw": "Porto, Portugal"
+  },
+  "SSBSE": {
+    "continent": "North America",
+    "raw": "Montreal, Canada"
+  },
+  "SSCI": {
+    "continent": "Europe",
+    "raw": "Trondheim, Norway"
+  },
+  "SSDBM": {
+    "continent": "North America",
+    "raw": "The Ohio State University, Columbus, Ohi"
+  },
+  "SSE": {
+    "continent": "Europe",
+    "raw": "Helsinki, Finland"
+  },
+  "SSS": {
+    "continent": "(unknown)",
+    "raw": "The 28th International Symposium on Stab"
+  },
+  "SSTD": {
+    "continent": "Asia",
+    "raw": "Osaka, Japan"
+  },
+  "STACS": {
+    "continent": "Europe",
+    "raw": "Grenoble, France"
+  },
+  "SVR": {
+    "continent": "South America",
+    "raw": "Salvador, Brazil"
+  },
+  "SWAT": {
+    "continent": "Europe",
+    "raw": "Copenhagen, Denmark"
+  },
+  "SYNASC": {
+    "continent": "Europe",
+    "raw": "Timisoara"
+  },
+  "SYSCON": {
+    "continent": "North America",
+    "raw": "Halifax, Canada"
+  },
+  "SYSTOR": {
+    "continent": "(unknown)",
+    "raw": "Virtual"
+  },
+  "Semantics": {
+    "continent": "Europe",
+    "raw": "Vienna, Austria"
+  },
+  "SoCG": {
+    "continent": "Asia",
+    "raw": "Kanazawa, Japan"
+  },
+  "SoCS": {
+    "continent": "Europe",
+    "raw": "Glasgow, Scotland, United Kingdom"
+  },
+  "SoMeT": {
+    "continent": "Asia",
+    "raw": "Kuala Lumpur, Malaysia"
+  },
+  "TAMC": {
+    "continent": "Asia",
+    "raw": "Jinan, China"
+  },
+  "TASE": {
+    "continent": "(unknown)",
+    "raw": "5* St. Raphael Resort and Marina, Limass"
+  },
+  "TFP": {
+    "continent": "Europe",
+    "raw": "Odense, Denmark"
+  },
+  "TPDL": {
+    "continent": "Europe",
+    "raw": "Faro, Algarve, Portugal"
+  },
+  "TSD": {
+    "continent": "Europe",
+    "raw": "Brno, Czech Republic"
+  },
+  "Tencon": {
+    "continent": "Asia",
+    "raw": "Bali, Indonesia"
+  },
+  "TrustCom": {
+    "continent": "Asia",
+    "raw": "Guiyang"
+  },
+  "UAI": {
+    "continent": "Europe",
+    "raw": "Amsterdam, The Netherlands"
+  },
+  "UBICOMM": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
+  },
+  "UIST": {
+    "continent": "North America",
+    "raw": "Detroit, Michigan, USA"
+  },
+  "UMAP": {
+    "continent": "Europe",
+    "raw": "Gothenburg, Sweden"
+  },
+  "USEC": {
+    "continent": "North America",
+    "raw": "San Diego, CA, USA"
+  },
+  "USENIX ATC": {
+    "continent": "Asia",
+    "raw": "Hong Kong"
+  },
+  "USENIX-Security": {
+    "continent": "North America",
+    "raw": "SEATTLE, WA, USA"
+  },
+  "UbiComp": {
+    "continent": "Europe",
+    "raw": "Espoo, Finland"
+  },
+  "VCIP": {
+    "continent": "Europe",
+    "raw": "Klagenfurt, Austria"
+  },
+  "VEHITS": {
+    "continent": "Europe",
+    "raw": "Benidorm, Spain"
+  },
+  "VINCI": {
+    "continent": "Europe",
+    "raw": "Linz, Austria"
+  },
+  "VISAPP": {
+    "continent": "Europe",
+    "raw": "Marbella, Spain"
+  },
+  "VISSOFT": {
+    "continent": "Australia",
+    "raw": "Auckland, New Zealand"
+  },
+  "VL/HCC": {
+    "continent": "North America",
+    "raw": "Raleigh, North Carolina, United States"
+  },
+  "VLDB": {
+    "continent": "North America",
+    "raw": "Boston, MA, USA"
+  },
+  "VLSI-SOC": {
+    "continent": "South America",
+    "raw": "Puero Varas, Chile"
+  },
+  "VMCAI": {
+    "continent": "Europe",
+    "raw": "Rennes, France"
+  },
+  "VMV": {
+    "continent": "Europe",
+    "raw": "Siegen, Germany"
+  },
+  "VNC": {
+    "continent": "North America",
+    "raw": "Montreal"
+  },
+  "VR": {
+    "continent": "Europe",
+    "raw": "Saint-Malo, France"
+  },
+  "VSTTE": {
+    "continent": "North America",
+    "raw": "Menlo Park, California, USA"
+  },
+  "W2GIS": {
+    "continent": "North America",
+    "raw": "Mexico City"
+  },
+  "WACV": {
+    "continent": "North America",
+    "raw": "Tucson, USA"
+  },
+  "WADS": {
+    "continent": "North America",
+    "raw": "Toronto, Canada"
+  },
+  "WALCOM": {
+    "continent": "Europe",
+    "raw": "Perugia, Italy"
+  },
+  "WASA": {
+    "continent": "Asia",
+    "raw": "Tokyo, Japan"
+  },
+  "WCE": {
+    "continent": "Europe",
+    "raw": "Churchill College, Cambridge, UK"
+  },
+  "WCNC": {
+    "continent": "Asia",
+    "raw": "Kuala Lumpur, Malaysia"
+  },
+  "WCSP": {
+    "continent": "Asia",
+    "raw": "Chongqing, China"
+  },
+  "WD": {
+    "continent": "South America",
+    "raw": "Rio de Janeiro, Brazil"
+  },
+  "WEB3D": {
+    "continent": "Europe",
+    "raw": "Siena, IT"
+  },
+  "WEBIST": {
+    "continent": "Europe",
+    "raw": "Angers, France"
+  },
+  "WEBSCI": {
+    "continent": "North America",
+    "raw": "New Brunswick, New Jersey, USA"
+  },
+  "WG": {
+    "continent": "Europe",
+    "raw": "Otzenhausen, Germany"
+  },
+  "WHC": {
+    "continent": "Asia",
+    "raw": "Suwon, Korea"
+  },
+  "WI": {
+    "continent": "Australia",
+    "raw": "Brisbane, Queensland, Australia"
+  },
+  "WIFS": {
+    "continent": "Asia",
+    "raw": "Sendai, Miyagi, Japan"
+  },
+  "WIMS": {
+    "continent": "Europe",
+    "raw": "Thessaloniki, Greece"
+  },
+  "WISE": {
+    "continent": "Europe",
+    "raw": "Venice, Italy"
+  },
+  "WONS": {
+    "continent": "Europe",
+    "raw": "Les Roches, Crans-Montana, Switzerland"
+  },
+  "WOSP": {
+    "continent": "North America",
+    "raw": "Toronto"
+  },
+  "WSA": {
+    "continent": "Europe",
+    "raw": "Erlangen, Germany"
+  },
+  "WSCG": {
+    "continent": "Europe",
+    "raw": "Pilsen, Czech Republic"
+  },
+  "WSDM": {
+    "continent": "North America",
+    "raw": "Boise, Idaho, USA"
+  },
+  "WWW": {
+    "continent": "Asia",
+    "raw": "Dubai, UAE"
+  },
+  "WiOpt": {
+    "continent": "Europe",
+    "raw": "Link\u00c3\u00b6ping, Sweden"
+  },
+  "WiSec": {
+    "continent": "North America",
+    "raw": "Arlington, Virginia, USA"
+  },
+  "WoWMoM": {
+    "continent": "Europe",
+    "raw": "Bologna, Italy"
+  },
+  "iLRN": {
+    "continent": "Europe",
+    "raw": "Hybrid/In-person (Athens, Greece)"
+  }
+}
