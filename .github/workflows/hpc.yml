@@ -1,8 +1,9 @@
 name: Update HPC conferences and locations
 
 on:
-  schedule:
-    - cron: '0 8 * * *'
+  workflow_run:
+    workflows: ["Update scraping"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
