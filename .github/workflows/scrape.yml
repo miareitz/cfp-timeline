@@ -29,6 +29,14 @@ jobs:
         (( $RANDOM < 32768 / 30 )) && python3 ./updater.py --no-cache ggs | cat
         python3 ./updater.py --no-cache --delay 2.5 cfps | cat
 
+    - name: Discover HPC conferences
+      run: |
+        python3 ./discover_hpc.py --years 2026 2027 | cat
+
+    - name: Scrape conference locations
+      run: |
+        python3 ./scrape_locations.py | cat
+
     - name: Push to GitHub
       run: |
         git add core.csv cfp.json parsing_errors.txt hpc_extra.json locations.json
