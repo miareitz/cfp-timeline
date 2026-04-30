@@ -12,7 +12,10 @@
 	<h1>Computer Science conferences timeline</h1>
 	<p id="head">This page references conferences listed on <a href="http://portal.core.edu.au/conf-ranks/">the CORE conference portal</a>
 	and in the <a href="https://scie.lcc.uma.es/gii-grin-scie-rating/conferenceRating.jsf">GII-GRIN-SCIE (GGS) Conference Rating</a>,
-	cross-referenced with their calls for papers from <a href="http://www.wikicfp.com/cfp/">WikiCFP</a> for dates, and presents them on a timeline. Missing dates are extrapolated from the previous years' cfp.</p>
+	cross-referenced with their calls for papers from <a href="http://www.wikicfp.com/cfp/">WikiCFP</a> for dates, and presents them on a timeline.
+	It also includes typical <strong>HPC conferences and workshops</strong> and supports filtering by <strong>continent/location</strong>.
+	Missing dates are extrapolated from the previous years' cfp.
+	<em>This is a fork of the original <a href="https://github.com/lucjaulmes/cfp-timeline">lucjaulmes/cfp-timeline</a> repository.</em></p>
 	<p>If you encounter missing or erroneous data, you can create or update the corresponding WikiCFP page, and the changes will be brought in at the next scraping. You can report conferences matched with the wrong call for papers (while the right one exists on WikiCFP) and other issues on <a id="github" href="https://github.com/lucjaulmes/cfp-timeline/issues/">github</a>.</p>
 
 	<div class="error_log_container">
@@ -80,7 +83,33 @@
 	(function() {
 		makeTimelineLegend()
 
-		fetchData('cfp.json', responseText => populatePage(JSON.parse(responseText)));
+		function fetchDataOrEmpty(page, result_handler)
+		{
+			const req = new XMLHttpRequest();
+			req.overrideMimeType('application/json; charset="UTF-8"');
+			req.addEventListener('load', evt => {
+				if (evt.target.status === 200)
+					result_handler(evt.target.responseText);
+				else
+					result_handler('{}');
+			});
+			req.addEventListener('error', () => result_handler('{}'));
+			req.open('get', page);
+			req.send();
+		}
+
+		fetchData('cfp.json', responseText => {
+			const cfpJson = JSON.parse(responseText);
+			let locations = {};
+			let hpcExtra = [];
+			let pending = 3;
+			function done() {
+				if (--pending === 0) populatePage(cfpJson, locations, hpcExtra);
+			}
+			done();
+			fetchDataOrEmpty('locations.json', text => { locations = JSON.parse(text); done(); });
+			fetchDataOrEmpty('hpc_extra.json', text => { hpcExtra = JSON.parse(text); done(); });
+		});
 		fetchData('parsing_errors.txt', responseText => parsingErrors(responseText));
 	})();
 	</script>

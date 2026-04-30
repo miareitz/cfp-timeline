@@ -259,6 +259,8 @@ function makeTimelineItem(row)
 
 	const dateIdx = {abst: abstIdx, sub: subIdx, notif: notifIdx, cam: camIdx, start: startIdx, end: endIdx};
 	const blocks = p.lastChild;
+	const rawLoc = row[rawLocIdx] || '(unknown)';
+	const locText = rawLoc === '(unknown)' ? 'Location: unknown (last known location may differ)' : `Location: ${rawLoc}`;
 	for (const cfp of row.slice(cfpIdx))
 	{
 		// get the row for this year, with friendly names
@@ -276,31 +278,32 @@ function makeTimelineItem(row)
 		{
 			if (date.sub > date.abst)
 			{
-				const tooltip = `${est(orig.abst)}${acronym} registration ${text.abst}`;
+				const tooltip = `${est(orig.abst)}${acronym} registration ${text.abst}<br />${locText}`;
 				blocks.appendChild(makeTimelineDuration('abstract', date.abst, date.sub, tooltip, orig.abst));
 			}
 
 			const tooltip = [
 				`${est(orig.sub)}${acronym} submission ${text.sub},`,
 				`${est(orig.notif).toLowerCase()}notification ${text.notif}`,
+				locText,
 			].join('<br />');
 			blocks.appendChild(makeTimelineDuration('review', date.sub, date.notif, tooltip, orig.sub, orig.notif));
 		}
 		else if (date.sub)
 		{
-			const tooltip = `${est(orig.sub)}${acronym} submission ${text.sub}`;
+			const tooltip = `${est(orig.sub)}${acronym} submission ${text.sub}<br />${locText}`;
 			blocks.appendChild(makeTimelinePunctual('date.sub', date.sub, '<sup>◆</sup>', tooltip, orig.sub));
 		}
 
 		if (date.cam)
 		{
-			const tooltip = `${est(orig.cam)}${acronym} final version ${text.cam}`;
+			const tooltip = `${est(orig.cam)}${acronym} final version ${text.cam}<br />${locText}`;
 			blocks.appendChild(makeTimelinePunctual('date.cam', date.cam, '<sup>∎</sup>', tooltip, orig.cam));
 		}
 
 		if (date.start && date.end && date.end >= date.start)
 		{
-			const tooltip = `${acronym} ${est(orig.start && orig.end).toLowerCase()}from ${text.start} to ${text.end}`;
+			const tooltip = `${acronym} ${est(orig.start && orig.end).toLowerCase()}from ${text.start} to ${text.end}<br />${locText}`;
 			blocks.appendChild(makeTimelineDuration('conf', date.start, date.end, tooltip, undefined, orig.end));
 		}
 	}
@@ -588,10 +591,13 @@ function sortConferences(sortIdx = [subIdx, abstIdx, startIdx, endIdx], after = 
 	onSuggestionClick();
 }
 
-function populatePage(json)
+function populatePage(json, locations, hpcExtra)
 {
 	// First update global variables from fetched data
 	data = json['data'];
+
+	if (hpcExtra && Array.isArray(hpcExtra))
+		data = data.concat(hpcExtra);
 
 	confIdx    = json['columns'].indexOf('Acronym')
 	titleIdx   = json['columns'].indexOf('Title')
@@ -610,6 +616,26 @@ function populatePage(json)
 	cfpLinkIdx = json['cfp_columns'].indexOf('CFP url')
 
 	origOffset = json['cfp_columns'].indexOf('orig_abstract')
+
+	const hpcSet = new Set([
+		'SC', 'ISC', 'PPoPP', 'IPDPS', 'PACT', 'Euro-Par', 'HiPC', 'CCGrid',
+		'ICPP', 'ICS', 'SPAA', 'CLUSTER', 'HPDC', 'HPCC', 'NPC', 'eScience',
+		'SBAC-PAD', 'ICPADS', 'ISPDC', 'VECPAR', 'HPCS', 'PARCO', 'PDCN'
+	]);
+	if (hpcExtra && Array.isArray(hpcExtra))
+		hpcExtra.forEach(row => hpcSet.add(row[confIdx]));
+
+	locIdx = cfpIdx;
+	rawLocIdx = cfpIdx + 1;
+	data.forEach(row => {
+		const locInfo = locations && locations[row[confIdx]] ? locations[row[confIdx]] : null;
+		const continent = locInfo ? locInfo.continent : '(unknown)';
+		const rawLoc = locInfo ? locInfo.raw : '(unknown)';
+		if (hpcSet.has(row[confIdx]))
+			row[fieldIdx] = 'HPC';
+		row.splice(cfpIdx, 0, continent, rawLoc);
+	});
+	cfpIdx += 2;
 
 	// Use lexicographic sort for dates, in format YYYYMMDD. NB: some dates are null.
 	const mindate = [
@@ -640,6 +666,7 @@ function populatePage(json)
 	const filters = document.getElementById('filters');
 	filters.appendChild(makeFilter(rankIdx, "rank", ranksort));
 	filters.appendChild(makeFilter(fieldIdx, "field"));
+	filters.appendChild(makeFilter(locIdx, "location"));
 
 	const search = form.querySelector('input[name="search"]');
 	search.onkeypress = updateSearch

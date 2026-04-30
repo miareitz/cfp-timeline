@@ -176,6 +176,9 @@ body > *:not(#timeline_container) {
 #filters p.filter_field::before {
 	content: "Field";
 }
+#filters p.filter_location::before {
+	content: "Location";
+}
 
 #search p.filter_conf span::after {
 	content: " ×";
