@@ -52,31 +52,38 @@
 		<div id="timeline"></div>
 	</div>
 
-	<dl id="legend">
-		<dt><span class="duration conf">&nbsp;</span></dt>
-		<dd>Conference</dd>
-		<dt><span class="duration review">&nbsp;</span></dt>
-		<dd>Review (submission to notification)<wbr></dd>
-		<dt><span class="duration abstract">&nbsp;</span></dt>
-		<dd>Pre-submission (abstract registration)<wbr></dd>
-		<dt><span class="submit"><sup>◆</sup></span></dt>
-		<dd>Submission date (notification unknown)<wbr></dd>
-		<dt><span class="camera"><sup>∎</sup><!-- QED --></span></dt>
-		<dd>Final version due<wbr></dd>
-		<dt><span class="extrapolated">&nbsp;</span></dt>
-		<dd>Dates unavailable, extrapolated from last years'<wbr></dd>
-		<dt><span class="today">&nbsp;</span></dt>
-		<dd>Today</dd>
-	</dl>
+	<div id="controls-panel">
+		<button id="toggle-controls" type="button" title="Toggle controls">−</button>
+		<div id="controls-content">
+			<dl id="legend">
+				<dt><span class="duration conf">&nbsp;</span></dt>
+				<dd>Conference</dd>
+				<dt><span class="duration review">&nbsp;</span></dt>
+				<dd>Review (submission to notification)<wbr></dd>
+				<dt><span class="duration abstract">&nbsp;</span></dt>
+				<dd>Pre-submission (abstract registration)<wbr></dd>
+				<dt><span class="submit"><sup>◆</sup></span></dt>
+				<dd>Submission date (notification unknown)<wbr></dd>
+				<dt><span class="camera"><sup>∎</sup><!-- QED --></span></dt>
+				<dd>Final version due<wbr></dd>
+				<dt><span class="extrapolated">&nbsp;</span></dt>
+				<dd>Dates unavailable, extrapolated from last years'<wbr></dd>
+				<dt><span class="today">&nbsp;</span></dt>
+				<dd>Today</dd>
+			</dl>
 
-	<form action="javascript:void(0);">
-		<fieldset id="search">
-			<legend>Conferences</legend>
-			<p><input type="text" name="search"></p>
-			<ul id="suggestions"></ul>
-		</fieldset>
-		<fieldset id="filters"><legend>Additional filters</legend></fieldset>
-	</form>
+			<form action="javascript:void(0);">
+				<fieldset id="search">
+					<legend>Conferences</legend>
+					<p><input type="text" name="search"></p>
+					<ul id="suggestions"></ul>
+				</fieldset>
+				<fieldset id="filters">
+					<legend>Additional filters</legend>
+				</fieldset>
+			</form>
+		</div>
+	</div>
 
 	<script type="text/javascript" src="cfp-timeline.js"></script>
 	<script>
@@ -88,7 +95,8 @@
 			const req = new XMLHttpRequest();
 			req.overrideMimeType('application/json; charset="UTF-8"');
 			req.addEventListener('load', evt => {
-				if (evt.target.status === 200)
+				const status = evt.target.status;
+				if (status >= 200 && status < 300 || status === 304)
 					result_handler(evt.target.responseText);
 				else
 					result_handler('{}');
@@ -111,6 +119,16 @@
 			fetchDataOrEmpty('hpc_extra.json', text => { hpcExtra = JSON.parse(text); done(); });
 		});
 		fetchData('parsing_errors.txt', responseText => parsingErrors(responseText));
+
+		const toggleBtn = document.getElementById('toggle-controls');
+		const controlsPanel = document.getElementById('controls-panel');
+		if (toggleBtn && controlsPanel) {
+			toggleBtn.addEventListener('click', () => {
+				controlsPanel.classList.toggle('collapsed');
+				document.body.classList.toggle('controls-collapsed');
+				toggleBtn.textContent = controlsPanel.classList.contains('collapsed') ? '+' : '−';
+			});
+		}
 	})();
 	</script>
 

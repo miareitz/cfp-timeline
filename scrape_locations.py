@@ -175,7 +175,13 @@ def main():
 
     print(f"Found {len(acronym_to_url)} conferences with WikiCFP URLs")
 
+    out_path = Path('locations.json')
     locations: dict[str, dict] = {}
+    if out_path.exists():
+        with open(out_path, 'r') as f:
+            locations = json.load(f)
+        print(f"Loaded {len(locations)} existing locations")
+
     errors: list[str] = []
 
     for idx, (acronym, url) in enumerate(acronym_to_url.items(), 1):
@@ -194,7 +200,6 @@ def main():
             errors.append(f"{acronym}: {e}")
             print(f"-> ERROR: {e}")
 
-    out_path = Path('locations.json')
     with open(out_path, 'w') as f:
         json.dump(locations, f, indent=2, sort_keys=True)
 
