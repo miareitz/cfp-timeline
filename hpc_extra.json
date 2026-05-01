@@ -1718,5 +1718,48 @@
       "https://sites.google.com/lbl.gov/energy-efficient-hpc-sop-works/home",
       null
     ]
+  ],
+  [
+    "WAMTA",
+    "Workshop on Asynchronous Many-Task Systems and Applications",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      "20251003",
+      "20260116",
+      "20260209",
+      "20260220",
+      "20260216",
+      "20260219",
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://wamta26.stellar-group.org",
+      null
+    ],
+    [
+      "20261003",
+      "20270116",
+      "20270209",
+      "20270220",
+      "20270216",
+      "20270219",
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://wamta26.stellar-group.org",
+      null
+    ]
   ]
 ]

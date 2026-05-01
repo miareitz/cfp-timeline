@@ -51,6 +51,10 @@
     "continent": "North America",
     "raw": "San Diego, CA, United States"
   },
+  "ACM HP3C": {
+    "continent": "Asia",
+    "raw": "Jinan, China"
+  },
   "ACML": {
     "continent": "Asia",
     "raw": "Taipei, Taiwan"
@@ -82,6 +86,10 @@
   "AGI": {
     "continent": "North America",
     "raw": "San Francisco State University"
+  },
+  "AHPC3": {
+    "continent": "Europe",
+    "raw": "Cluj-Napoca, Romania"
   },
   "AI": {
     "continent": "Asia",
@@ -123,9 +131,17 @@
     "continent": "Asia",
     "raw": "Splash Beach Resort, Mai Khao, Thailand"
   },
+  "AIonHPC": {
+    "continent": "Europe",
+    "raw": "Hamburg, Germany"
+  },
   "AMSTA": {
     "continent": "Europe",
     "raw": "Solin, Croatia"
+  },
+  "AMTE": {
+    "continent": "Europe",
+    "raw": "Pozna\u00c5\u0084, Poland"
   },
   "ANT": {
     "continent": "(unknown)",
@@ -146,6 +162,10 @@
   "APL": {
     "continent": "South America",
     "raw": "Campinas, Brazil"
+  },
+  "APMC": {
+    "continent": "Europe",
+    "raw": "Pozna\u00c5\u0084, Poland"
   },
   "APNOMS": {
     "continent": "Asia",
@@ -222,6 +242,10 @@
   "AVSS": {
     "continent": "Europe",
     "raw": "Lecce, Italy"
+  },
+  "ApPLIED": {
+    "continent": "(unknown)",
+    "raw": "N/A"
   },
   "ArtsIT": {
     "continent": "Europe",
@@ -359,6 +383,10 @@
     "continent": "Australia",
     "raw": "Sydney, Australia"
   },
+  "CCGrid": {
+    "continent": "Australia",
+    "raw": "Sydney, Australia"
+  },
   "CCNC": {
     "continent": "North America",
     "raw": "Las Vegas, NV, USA"
@@ -454,6 +482,10 @@
   "CLOUD": {
     "continent": "Europe",
     "raw": "Copenhagen, Denmark"
+  },
+  "CLOUD COMPUTING": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
   },
   "CLUSTER": {
     "continent": "Europe",
@@ -647,6 +679,10 @@
     "continent": "Europe",
     "raw": "Reykjavik, Iceland"
   },
+  "DCOSS-IoT": {
+    "continent": "Europe",
+    "raw": "Reykjavik, Iceland"
+  },
   "DEBS": {
     "continent": "Europe",
     "raw": "Lisbon, Portugal"
@@ -715,6 +751,10 @@
     "continent": "Europe",
     "raw": "Graz, Austria"
   },
+  "DisCoTec": {
+    "continent": "(unknown)",
+    "raw": "Urbino"
+  },
   "E-ENERGY": {
     "continent": "North America",
     "raw": "Banff, Canada"
@@ -763,6 +803,10 @@
     "continent": "Europe",
     "raw": "Brussels, Belgium"
   },
+  "ECPDC": {
+    "continent": "Asia",
+    "raw": "Singapore"
+  },
   "ECRTS": {
     "continent": "Europe",
     "raw": "Lund, Sweden"
@@ -794,6 +838,14 @@
   "EDOC": {
     "continent": "Europe",
     "raw": "Lisbon, Portugal"
+  },
+  "EDiS": {
+    "continent": "Africa",
+    "raw": "Oran - Algeria"
+  },
+  "EE HPC SOP": {
+    "continent": "Asia",
+    "raw": "Osaka, Japan"
   },
   "EEM": {
     "continent": "Europe",
@@ -863,6 +915,10 @@
     "continent": "Europe",
     "raw": "Rome"
   },
+  "ESSA": {
+    "continent": "North America",
+    "raw": "New Orleans, USA"
+  },
   "ESTC": {
     "continent": "Europe",
     "raw": "Helsinki, Finnland"
@@ -898,6 +954,10 @@
   "EWSN": {
     "continent": "Europe",
     "raw": "Dresden, Germany"
+  },
+  "Euro-Par": {
+    "continent": "Europe",
+    "raw": "Pisa, Italy"
   },
   "EuroMPI": {
     "continent": "Europe",
@@ -1063,13 +1123,45 @@
     "continent": "North America",
     "raw": "Washington, D.C., USA"
   },
+  "HPA-PDE": {
+    "continent": "Europe",
+    "raw": "Pozna\u00c5\u0084, Poland"
+  },
+  "HPC+QC": {
+    "continent": "Europe",
+    "raw": "Poznan, Poland"
+  },
   "HPCA": {
     "continent": "Australia",
     "raw": "Sydney"
   },
+  "HPCA-PhS": {
+    "continent": "Europe",
+    "raw": "Pozna\u00c5\u0084, Poland"
+  },
   "HPCC": {
     "continent": "Europe",
     "raw": "Exeter, UK"
+  },
+  "HPCCT--ESCI": {
+    "continent": "Asia",
+    "raw": "Chongqing, China"
+  },
+  "HPCMS - PDP": {
+    "continent": "Europe",
+    "raw": "Cluj-Napoca"
+  },
+  "HPCSummerSchool": {
+    "continent": "Europe",
+    "raw": "Lecce, Italy"
+  },
+  "HPCW": {
+    "continent": "Europe",
+    "raw": "Hamburg, Germany"
+  },
+  "HPCoSiMC - PDP": {
+    "continent": "Europe",
+    "raw": "Cluj-Napoca (Romania)"
   },
   "HPDC": {
     "continent": "North America",
@@ -1078,6 +1170,10 @@
   "HPG": {
     "continent": "Europe",
     "raw": "Copenhagen, Denmark"
+  },
+  "HPQCI": {
+    "continent": "(unknown)",
+    "raw": "Catania"
   },
   "HPSC": {
     "continent": "North America",
@@ -1999,6 +2095,10 @@
     "continent": "Asia",
     "raw": "Hong Kong SAR, China"
   },
+  "Intel4EC": {
+    "continent": "North America",
+    "raw": "New Orleans, USA"
+  },
   "IoTBDS": {
     "continent": "Europe",
     "raw": "Benidorm, Spain"
@@ -2075,6 +2175,10 @@
     "continent": "Europe",
     "raw": "Milan, Italy"
   },
+  "LLM4HPC": {
+    "continent": "Europe",
+    "raw": "Hamburg, Germany"
+  },
   "LOPSTR": {
     "continent": "Europe",
     "raw": "Rende, Italy"
@@ -2086,6 +2190,10 @@
   "LREC": {
     "continent": "Europe",
     "raw": "Palma, Mallorca, Spain"
+  },
+  "MAMHYP": {
+    "continent": "Europe",
+    "raw": "Poznan, Poland"
   },
   "MASS": {
     "continent": "Asia",
@@ -2102,6 +2210,10 @@
   "MFCS": {
     "continent": "Europe",
     "raw": "Paris, France"
+  },
+  "MHPC-IM": {
+    "continent": "Europe",
+    "raw": "Pozna\u00c5\u0084, Poland"
   },
   "MICAI": {
     "continent": "North America",
@@ -2219,6 +2331,10 @@
     "continent": "North America",
     "raw": "Los Angeles, CA"
   },
+  "NHR Conference -": {
+    "continent": "Europe",
+    "raw": "Paderborn (Germany)"
+  },
   "NLDB": {
     "continent": "Europe",
     "raw": "Trondheim"
@@ -2287,6 +2403,10 @@
     "continent": "North America",
     "raw": "Chicago, Illinois, USA"
   },
+  "PAISE": {
+    "continent": "North America",
+    "raw": "New Orleans, USA"
+  },
   "PAKDD": {
     "continent": "Asia",
     "raw": "Hong Kong"
@@ -2298,6 +2418,14 @@
   "PARCO": {
     "continent": "(unknown)",
     "raw": "N/A"
+  },
+  "PARMA-DITAM": {
+    "continent": "(unknown)",
+    "raw": "co-located with HiPEAC 2026"
+  },
+  "PAW-ATM": {
+    "continent": "North America",
+    "raw": "Chicago, IL, USA"
   },
   "PCS": {
     "continent": "Europe",
@@ -2419,6 +2547,10 @@
     "continent": "Australia",
     "raw": "Queenstown, New Zealand"
   },
+  "Q-WORKS": {
+    "continent": "Europe",
+    "raw": "Pisa, Italy"
+  },
   "QRS": {
     "continent": "Europe",
     "raw": "Florence, Italy"
@@ -2455,9 +2587,21 @@
     "continent": "Europe",
     "raw": "Valencia, Spain"
   },
+  "REX-IO": {
+    "continent": "North America",
+    "raw": "Cleveland, OH, USA"
+  },
+  "RISC-V PPAM": {
+    "continent": "Europe",
+    "raw": "Poznan, Poland"
+  },
   "ROBIO": {
     "continent": "Asia",
     "raw": "Chengdu, China"
+  },
+  "RSDHA": {
+    "continent": "Asia",
+    "raw": "Osaka, Japan"
   },
   "RSS": {
     "continent": "(unknown)",
@@ -2819,6 +2963,10 @@
     "continent": "Europe",
     "raw": "Benidorm, Spain"
   },
+  "VHPC": {
+    "continent": "Europe",
+    "raw": "Pisa, Italy"
+  },
   "VINCI": {
     "continent": "Europe",
     "raw": "Linz, Austria"
@@ -2879,6 +3027,10 @@
     "continent": "Europe",
     "raw": "Perugia, Italy"
   },
+  "WAMTA": {
+    "continent": "Europe",
+    "raw": "Garching near Munich, Germany"
+  },
   "WASA": {
     "continent": "Asia",
     "raw": "Tokyo, Japan"
@@ -2934,6 +3086,14 @@
   "WISE": {
     "continent": "Europe",
     "raw": "Venice, Italy"
+  },
+  "WLPP": {
+    "continent": "Europe",
+    "raw": "Poznan, Poland"
+  },
+  "WOCC": {
+    "continent": "Europe",
+    "raw": "Belfast, Northern Ireland, UK"
   },
   "WONS": {
     "continent": "Europe",
