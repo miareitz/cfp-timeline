@@ -44,8 +44,8 @@
     "raw": "Perth, Australia"
   },
   "ACIVS": {
-    "continent": "Asia",
-    "raw": "Okinawa, Japan"
+    "continent": "(unknown)",
+    "raw": "Okinawa"
   },
   "ACL": {
     "continent": "North America",
@@ -79,9 +79,13 @@
     "continent": "Europe",
     "raw": "Pilsen, Czech Republic"
   },
+  "AGI": {
+    "continent": "North America",
+    "raw": "San Francisco State University"
+  },
   "AI": {
-    "continent": "(unknown)",
-    "raw": "N/A"
+    "continent": "Asia",
+    "raw": "Hangzhou, China"
   },
   "AIAI": {
     "continent": "Europe",
@@ -110,6 +114,10 @@
   "AIPS": {
     "continent": "Asia",
     "raw": "Quzhou, China"
+  },
+  "AIST": {
+    "continent": "Asia",
+    "raw": "Astana, Kazakhstan"
   },
   "AISTATS": {
     "continent": "Asia",
@@ -148,8 +156,8 @@
     "raw": "Singapore"
   },
   "APSEC": {
-    "continent": "Asia",
-    "raw": "Macao SAR, China"
+    "continent": "(unknown)",
+    "raw": "Bali"
   },
   "APSYS": {
     "continent": "Asia",
@@ -199,6 +207,10 @@
     "continent": "Europe",
     "raw": "Lyngby, Denmark"
   },
+  "ATC": {
+    "continent": "(unknown)",
+    "raw": "Rende, Calabria"
+  },
   "AUTOMATA": {
     "continent": "Europe",
     "raw": "France"
@@ -221,7 +233,7 @@
   },
   "AusDM": {
     "continent": "Australia",
-    "raw": "Brisbane, Australia"
+    "raw": "Sydney"
   },
   "BCB": {
     "continent": "North America",
@@ -405,7 +417,7 @@
   },
   "CIC": {
     "continent": "North America",
-    "raw": "Pittsburgh, PA, USA"
+    "raw": "San Jose, CA, USA"
   },
   "CIFEr": {
     "continent": "Asia",
@@ -414,6 +426,14 @@
   "CIKM": {
     "continent": "North America",
     "raw": "Boise, ID, USA"
+  },
+  "CISP": {
+    "continent": "Asia",
+    "raw": "Zhenjiang, China"
+  },
+  "CIT": {
+    "continent": "Europe",
+    "raw": "Exeter, UK"
   },
   "CITA": {
     "continent": "Asia",
@@ -519,6 +539,10 @@
     "continent": "North America",
     "raw": "Salt Lake City, Utah, USA"
   },
+  "CSCWD": {
+    "continent": "Europe",
+    "raw": "Compi\u00c3\u00a8gne, France"
+  },
   "CSEDU": {
     "continent": "Europe",
     "raw": "Benidorm, Spain"
@@ -552,8 +576,8 @@
     "raw": "Nashville, Tennessee"
   },
   "CW": {
-    "continent": "Asia",
-    "raw": "Jinzhong, China"
+    "continent": "Europe",
+    "raw": "Bradford, UK"
   },
   "CYBER": {
     "continent": "Europe",
@@ -819,6 +843,10 @@
     "continent": "Asia",
     "raw": "Tokyo,Japan"
   },
+  "EPIA": {
+    "continent": "Europe",
+    "raw": "Madeira, Portugal"
+  },
   "ER": {
     "continent": "North America",
     "raw": "St. John's, NL, Canada"
@@ -864,8 +892,8 @@
     "raw": "Isola delle Femmine, Palermo,  ITALY"
   },
   "EUSPN": {
-    "continent": "(unknown)",
-    "raw": "Istanbul, Turkiye"
+    "continent": "Asia",
+    "raw": "Almaty, Kazakhstan"
   },
   "EWSN": {
     "continent": "Europe",
@@ -941,7 +969,7 @@
   },
   "FRUCT": {
     "continent": "Europe",
-    "raw": "Helsinki, Finland"
+    "raw": "Online and Helsinki, Finland"
   },
   "FSE": {
     "continent": "North America",
@@ -1011,6 +1039,10 @@
     "continent": "Europe",
     "raw": "Pavia, Italy"
   },
+  "Graph-hoc": {
+    "continent": "(unknown)",
+    "raw": "N/A"
+  },
   "Group": {
     "continent": "North America",
     "raw": "Hilton Head Island, South Carolina, USA"
@@ -1063,6 +1095,10 @@
     "continent": "North America",
     "raw": "Banff, Alberta, Canada"
   },
+  "I&CPS": {
+    "continent": "Asia",
+    "raw": "Kunming, China"
+  },
   "I-SOCIETY": {
     "continent": "Europe",
     "raw": "Churchill College, Cambridge, UK"
@@ -1095,13 +1131,17 @@
     "continent": "Asia",
     "raw": "Penang, Malaysia"
   },
+  "IC-AI": {
+    "continent": "Asia",
+    "raw": "Chongqing, China"
+  },
   "IC3": {
     "continent": "Asia",
     "raw": "Noida, India"
   },
   "ICA3PP": {
-    "continent": "Asia",
-    "raw": "Zhengzhou, Henan"
+    "continent": "Europe",
+    "raw": "Exeter, UK"
   },
   "ICAART": {
     "continent": "Europe",
@@ -1147,6 +1187,10 @@
     "continent": "Europe",
     "raw": "Barcelona, Spain"
   },
+  "ICAT": {
+    "continent": "South America",
+    "raw": "Goiania, Brazil"
+  },
   "ICBBE": {
     "continent": "Asia",
     "raw": "Hokkaido, Japan"
@@ -1162,10 +1206,6 @@
   "ICCAD": {
     "continent": "Europe",
     "raw": "Munich, Germany"
-  },
-  "ICCAE": {
-    "continent": "Australia",
-    "raw": "Sydney, Australia"
   },
   "ICCBR": {
     "continent": "Europe",
@@ -1271,6 +1311,10 @@
     "continent": "Asia",
     "raw": "Chengdu, China"
   },
+  "ICECE": {
+    "continent": "Asia",
+    "raw": "Xi'an, China"
+  },
   "ICECS": {
     "continent": "Africa",
     "raw": "Marrakech, Morocco"
@@ -1289,7 +1333,7 @@
   },
   "ICET": {
     "continent": "Asia",
-    "raw": "Chengdu, China"
+    "raw": "Wuhan, China"
   },
   "ICETC": {
     "continent": "Europe",
@@ -1437,7 +1481,7 @@
   },
   "ICNC": {
     "continent": "Asia",
-    "raw": "Hohhot, Inner Mongolia, China"
+    "raw": "Taiyuan, Shanxi, China"
   },
   "ICNLP": {
     "continent": "Asia",
@@ -1748,12 +1792,16 @@
     "raw": "Rome, Italy"
   },
   "IRI": {
-    "continent": "North America",
-    "raw": "Seattle, WA, USA"
+    "continent": "(unknown)",
+    "raw": "Seattle, WA"
   },
   "IROS": {
     "continent": "North America",
     "raw": "Pittsburgh"
+  },
+  "IS": {
+    "continent": "Europe",
+    "raw": "Novi Sad, Serbia"
   },
   "ISAAC": {
     "continent": "Asia",
@@ -1825,7 +1873,7 @@
   },
   "ISNCC": {
     "continent": "Europe",
-    "raw": "Paris - France"
+    "raw": "Bristol; UK"
   },
   "ISNN": {
     "continent": "Asia",
@@ -1917,7 +1965,7 @@
   },
   "IUKM": {
     "continent": "Asia",
-    "raw": "Ho Chi Minh City, Vietnam"
+    "raw": "Quy Nhon City, Vietnam"
   },
   "IV": {
     "continent": "Europe",
@@ -1946,6 +1994,10 @@
   "IWSEC": {
     "continent": "Asia",
     "raw": "Fukuoka, Japan"
+  },
+  "Inscrypt": {
+    "continent": "Asia",
+    "raw": "Hong Kong SAR, China"
   },
   "IoTBDS": {
     "continent": "Europe",
@@ -2039,13 +2091,21 @@
     "continent": "Asia",
     "raw": "Hong Kong"
   },
+  "MDAI": {
+    "continent": "Europe",
+    "raw": "Vic, Catalonia, Spain"
+  },
   "MEDES": {
     "continent": "Asia",
     "raw": "Ho Chi Minh, Vietnam"
   },
   "MFCS": {
     "continent": "Europe",
-    "raw": "Warsaw, Poland"
+    "raw": "Paris, France"
+  },
+  "MICAI": {
+    "continent": "North America",
+    "raw": "Monterrey, Mexico"
   },
   "MICRO": {
     "continent": "Europe",
@@ -2094,6 +2154,10 @@
   "MOMM": {
     "continent": "Asia",
     "raw": "Bangkok, Thailand"
+  },
+  "MSN": {
+    "continent": "Asia",
+    "raw": "Ningbo, China"
   },
   "MSST": {
     "continent": "North America",
@@ -2280,8 +2344,8 @@
     "raw": "singapore"
   },
   "PKAW": {
-    "continent": "Australia",
-    "raw": "Wellington, New Zealand"
+    "continent": "Asia",
+    "raw": "Guangzhou, China"
   },
   "PLDI": {
     "continent": "Asia",
@@ -2395,6 +2459,10 @@
     "continent": "Asia",
     "raw": "Chengdu, China"
   },
+  "RSS": {
+    "continent": "(unknown)",
+    "raw": "N/A"
+  },
   "RTA": {
     "continent": "Europe",
     "raw": "Tirana, Albania"
@@ -2416,8 +2484,8 @@
     "raw": "Boston, MA, USA"
   },
   "RV": {
-    "continent": "Europe",
-    "raw": "Graz, Austria"
+    "continent": "North America",
+    "raw": "Kingston, Canada"
   },
   "RecSys": {
     "continent": "North America",
@@ -2471,6 +2539,10 @@
     "continent": "(unknown)",
     "raw": "The Westin Alexandria Old Town Hotel | A"
   },
+  "SEA": {
+    "continent": "Europe",
+    "raw": "Venice, Italy"
+  },
   "SEAA": {
     "continent": "Europe",
     "raw": "Krakow, Poland"
@@ -2506,6 +2578,10 @@
   "SGP": {
     "continent": "Europe",
     "raw": "Bern, Switzerland"
+  },
+  "SIBGRAPI": {
+    "continent": "South America",
+    "raw": "Goi\u00c3\u00a2nia, Brazil"
   },
   "SIGCOMM": {
     "continent": "Europe",
@@ -2561,7 +2637,7 @@
   },
   "SMC": {
     "continent": "(unknown)",
-    "raw": "Bellevue, WA"
+    "raw": "Pasadena, CA"
   },
   "SMI": {
     "continent": "Asia",
@@ -2617,7 +2693,7 @@
   },
   "SSDBM": {
     "continent": "North America",
-    "raw": "The Ohio State University, Columbus, Ohi"
+    "raw": "San Diego, California"
   },
   "SSE": {
     "continent": "Europe",
@@ -2637,7 +2713,7 @@
   },
   "SVR": {
     "continent": "South America",
-    "raw": "Salvador, Brazil"
+    "raw": "Goiania, Brazil"
   },
   "SWAT": {
     "continent": "Europe",
@@ -2686,6 +2762,10 @@
   "TPDL": {
     "continent": "Europe",
     "raw": "Faro, Algarve, Portugal"
+  },
+  "TRUST": {
+    "continent": "Europe",
+    "raw": "Bremen, Germany"
   },
   "TSD": {
     "continent": "Europe",
@@ -2813,7 +2893,7 @@
   },
   "WCSP": {
     "continent": "Asia",
-    "raw": "Chongqing, China"
+    "raw": "Shenzhen, China"
   },
   "WD": {
     "continent": "South America",
@@ -2874,6 +2954,10 @@
   "WSDM": {
     "continent": "North America",
     "raw": "Boise, Idaho, USA"
+  },
+  "WSOM": {
+    "continent": "Europe",
+    "raw": "Manchester"
   },
   "WWW": {
     "continent": "Asia",
