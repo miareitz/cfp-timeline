@@ -173,8 +173,6 @@ def main():
                 acronym_to_url[acronym] = url
                 break
 
-    print(f"Found {len(acronym_to_url)} conferences with WikiCFP URLs")
-
     out_path = Path('locations.json')
     locations: dict[str, dict] = {}
     if out_path.exists():
@@ -182,9 +180,51 @@ def main():
             locations = json.load(f)
         print(f"Loaded {len(locations)} existing locations")
 
+    hpc_path = Path('hpc_extra.json')
+    if hpc_path.exists():
+        with open(hpc_path, 'r') as f:
+            hpc_data = json.load(f)
+        for row in hpc_data:
+            acronym = row[0]
+            if acronym in acronym_to_url:
+                continue
+            for cfp in row[5:]:
+                if not isinstance(cfp, list):
+                    continue
+                cfp_url = cfp[-1]
+                if cfp_url and cfp_url != '(missing)' and 'wikicfp.com' in cfp_url:
+                    acronym_to_url[acronym] = cfp_url
+                    break
+
+        hpc_without_url = []
+        for row in hpc_data:
+            acronym = row[0]
+            if acronym not in acronym_to_url and acronym not in locations:
+                hpc_without_url.append(acronym)
+
+        if hpc_without_url:
+            print(f"Searching WikiCFP for {len(hpc_without_url)} HPC conferences without URLs...")
+            for acronym in hpc_without_url:
+                try:
+                    search_url = f"http://www.wikicfp.com/cfp/servlet/tool.search?q={acronym}&year=t"
+                    soup = fetch_soup(search_url, delay=0.8)
+                    link = soup.find('a', href=re.compile(r'/cfp/servlet/event\.showcfp\?eventid=\d+'))
+                    if link:
+                        href = link['href']
+                        if isinstance(href, list):
+                            href = href[0]
+                        cfp_url = 'http://www.wikicfp.com' + href
+                        acronym_to_url[acronym] = cfp_url
+                except Exception:
+                    pass
+
+    print(f"Found {len(acronym_to_url)} conferences with WikiCFP URLs")
+
     errors: list[str] = []
 
     for idx, (acronym, url) in enumerate(acronym_to_url.items(), 1):
+        if acronym in locations and locations[acronym].get('raw') and locations[acronym]['raw'] != '(unknown)':
+            continue
         print(f"[{idx}/{len(acronym_to_url)}] Fetching {acronym} ...", end=' ', flush=True)
         try:
             soup = fetch_soup(url, delay=0.8)
