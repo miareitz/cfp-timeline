@@ -1,48 +1,5 @@
 [
   [
-    "AMTE",
-    "Asynchronous Many-Task Systems for Exascale",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260508",
-      "20260608",
-      "20261031",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://amte-workshop.github.io/",
-      null
-    ],
-    [
-      null,
-      "20270508",
-      "20270608",
-      "20271031",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://amte-workshop.github.io/",
-      null
-    ]
-  ],
-  [
     "MAMHYP",
     "8th WORKSHOP ON MODELS, ALGORITHMS AND METHODOLOGIES FOR HYBRID PARALLELISM IN NEW HPC SYSTEMS (MAMHYP-26)",
     [
@@ -258,49 +215,6 @@
     ]
   ],
   [
-    "RISC-V PPAM",
-    "Second PPAM Workshop on RISC-V",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260512",
-      "20260516",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
-      null
-    ],
-    [
-      null,
-      "20270512",
-      "20270516",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
-      null
-    ]
-  ],
-  [
     "Q-WORKS",
     "Workshop on Quantum\u00e2\u0080\u0093HPC Workflows, Resources allocation, and Scheduling",
     [
@@ -340,6 +254,49 @@
       false,
       false,
       "https://q-works.github.io/",
+      null
+    ]
+  ],
+  [
+    "RISC-V PPAM",
+    "Second PPAM Workshop on RISC-V",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260518",
+      "20260622",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
+      null
+    ],
+    [
+      null,
+      "20270518",
+      "20270622",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
       null
     ]
   ],
@@ -426,6 +383,49 @@
       false,
       false,
       "https://www.nhr-verein.de/conference",
+      null
+    ]
+  ],
+  [
+    "AMTE",
+    "Asynchronous Many-Task Systems for Exascale",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260508",
+      "20260608",
+      "20261031",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://amte-workshop.github.io/",
+      null
+    ],
+    [
+      null,
+      "20270508",
+      "20270608",
+      "20271031",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://amte-workshop.github.io/",
       null
     ]
   ],
