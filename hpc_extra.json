@@ -1,5 +1,263 @@
 [
   [
+    "RISC-V PPAM",
+    "Second PPAM Workshop on RISC-V",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260518",
+      "20260622",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
+      null
+    ],
+    [
+      null,
+      "20270518",
+      "20270622",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
+      null
+    ]
+  ],
+  [
+    "VHPC",
+    "21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260526",
+      "20260612",
+      "20260710",
+      "20260824",
+      "20260825",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://vhpc.org",
+      null
+    ],
+    [
+      null,
+      "20270526",
+      "20270612",
+      "20270710",
+      "20270824",
+      "20270825",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://vhpc.org",
+      null
+    ]
+  ],
+  [
+    "Q-WORKS",
+    "Workshop on Quantum\u00e2\u0080\u0093HPC Workflows, Resources allocation, and Scheduling",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260529",
+      "20260612",
+      "20260710",
+      "20260824",
+      "20260825",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://q-works.github.io/",
+      null
+    ],
+    [
+      null,
+      "20270529",
+      "20270612",
+      "20270710",
+      "20270824",
+      "20270825",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://q-works.github.io/",
+      null
+    ]
+  ],
+  [
+    "NHR Conference -",
+    "4th National High Performance Computing Conference 2026: Track ))HPC-Driven Decision Science((",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260601",
+      null,
+      null,
+      "20260914",
+      "20260917",
+      null,
+      true,
+      null,
+      null,
+      true,
+      true,
+      "https://www.nhr-verein.de/conference",
+      null
+    ],
+    [
+      null,
+      "20270601",
+      null,
+      null,
+      "20270914",
+      "20270917",
+      null,
+      false,
+      null,
+      null,
+      false,
+      false,
+      "https://www.nhr-verein.de/conference",
+      null
+    ]
+  ],
+  [
+    "HPC-ODA",
+    "The 1st International Workshop on HPC Operational Data Analytics",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260731",
+      "20260904",
+      "20260918",
+      "20261115",
+      "20261120",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://hpc-oda.org/workshop2026/",
+      null
+    ],
+    [
+      null,
+      "20270731",
+      "20270904",
+      "20270918",
+      "20271115",
+      "20271120",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://hpc-oda.org/workshop2026/",
+      null
+    ]
+  ],
+  [
+    "HPA-PDE",
+    "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
+      null
+    ]
+  ],
+  [
     "MAMHYP",
     "8th WORKSHOP ON MODELS, ALGORITHMS AND METHODOLOGIES FOR HYBRID PARALLELISM IN NEW HPC SYSTEMS (MAMHYP-26)",
     [
@@ -168,221 +426,6 @@
       false,
       false,
       "https://ppam.edu.pl/workshops",
-      null
-    ]
-  ],
-  [
-    "HPA-PDE",
-    "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
-      null
-    ]
-  ],
-  [
-    "Q-WORKS",
-    "Workshop on Quantum\u00e2\u0080\u0093HPC Workflows, Resources allocation, and Scheduling",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260515",
-      "20260612",
-      "20260710",
-      "20260824",
-      "20260825",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://q-works.github.io/",
-      null
-    ],
-    [
-      null,
-      "20270515",
-      "20270612",
-      "20270710",
-      "20270824",
-      "20270825",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://q-works.github.io/",
-      null
-    ]
-  ],
-  [
-    "RISC-V PPAM",
-    "Second PPAM Workshop on RISC-V",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260518",
-      "20260622",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
-      null
-    ],
-    [
-      null,
-      "20270518",
-      "20270622",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
-      null
-    ]
-  ],
-  [
-    "VHPC",
-    "21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260526",
-      "20260612",
-      "20260710",
-      "20260824",
-      "20260825",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://vhpc.org",
-      null
-    ],
-    [
-      null,
-      "20270526",
-      "20270612",
-      "20270710",
-      "20270824",
-      "20270825",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://vhpc.org",
-      null
-    ]
-  ],
-  [
-    "NHR Conference -",
-    "4th National High Performance Computing Conference 2026: Track ))HPC-Driven Decision Science((",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260601",
-      null,
-      null,
-      "20260914",
-      "20260917",
-      null,
-      true,
-      null,
-      null,
-      true,
-      true,
-      "https://www.nhr-verein.de/conference",
-      null
-    ],
-    [
-      null,
-      "20270601",
-      null,
-      null,
-      "20270914",
-      "20270917",
-      null,
-      false,
-      null,
-      null,
-      false,
-      false,
-      "https://www.nhr-verein.de/conference",
       null
     ]
   ],
@@ -645,49 +688,6 @@
     ]
   ],
   [
-    "LLM4HPC",
-    "The 2nd International Workshop on Foundational large Language Models Advances for HPC at ISC'26",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260306",
-      "20260323",
-      "20260516",
-      "20260626",
-      "20260626",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://ornl.github.io/events/llm4hpc2026/",
-      null
-    ],
-    [
-      null,
-      "20270306",
-      "20270323",
-      "20270516",
-      "20270626",
-      "20270626",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://ornl.github.io/events/llm4hpc2026/",
-      null
-    ]
-  ],
-  [
     "HPCW",
     "Annual High Performance Container Workshop at ISC'26",
     [
@@ -727,6 +727,49 @@
       false,
       false,
       "https://container-in-hpc.org/isc/2026/cfp/index.html",
+      null
+    ]
+  ],
+  [
+    "LLM4HPC",
+    "The 2nd International Workshop on Foundational large Language Models Advances for HPC at ISC'26",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260306",
+      "20260323",
+      "20260516",
+      "20260626",
+      "20260626",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://ornl.github.io/events/llm4hpc2026/",
+      null
+    ],
+    [
+      null,
+      "20270306",
+      "20270323",
+      "20270516",
+      "20270626",
+      "20270626",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://ornl.github.io/events/llm4hpc2026/",
       null
     ]
   ],
@@ -989,49 +1032,6 @@
     ]
   ],
   [
-    "SPC@PPAM",
-    "11th Workshop on Scheduling for Parallel Computing",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://www.cs.put.poznan.pl/mdrozdowski/spc26/",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://www.cs.put.poznan.pl/mdrozdowski/spc26/",
-      null
-    ]
-  ],
-  [
     "ECPDC",
     "2026 3rd International Conference on Edge Computing, Parallel and Distributed Computing",
     [
@@ -1071,6 +1071,49 @@
       false,
       false,
       "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
+      null
+    ]
+  ],
+  [
+    "SPC@PPAM",
+    "11th Workshop on Scheduling for Parallel Computing",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://www.cs.put.poznan.pl/mdrozdowski/spc26/",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://www.cs.put.poznan.pl/mdrozdowski/spc26/",
       null
     ]
   ],
@@ -1204,49 +1247,6 @@
     ]
   ],
   [
-    "ACM HP3C",
-    "ACM--2026 10th International Conference on High Performance Compilation, Computing and Communications (HP3C 2026)",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260510",
-      null,
-      null,
-      "20260624",
-      "20260626",
-      null,
-      true,
-      null,
-      null,
-      true,
-      true,
-      "http://www.hp3c.net",
-      null
-    ],
-    [
-      null,
-      "20270510",
-      null,
-      null,
-      "20270624",
-      "20270626",
-      null,
-      false,
-      null,
-      null,
-      false,
-      false,
-      "http://www.hp3c.net",
-      null
-    ]
-  ],
-  [
     "EDiS",
     "The 5th  IEEE  International Conference on Embedded & Distributed Systems",
     [
@@ -1329,6 +1329,49 @@
       false,
       false,
       "https://sourceryinstitute.github.io/PAW/",
+      null
+    ]
+  ],
+  [
+    "ACM HP3C",
+    "ACM--2026 10th International Conference on High Performance Compilation, Computing and Communications (HP3C 2026)",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260510",
+      null,
+      null,
+      "20260624",
+      "20260626",
+      null,
+      true,
+      null,
+      null,
+      true,
+      true,
+      "http://www.hp3c.net",
+      null
+    ],
+    [
+      null,
+      "20270510",
+      null,
+      null,
+      "20270624",
+      "20270626",
+      null,
+      false,
+      null,
+      null,
+      false,
+      false,
+      "http://www.hp3c.net",
       null
     ]
   ],

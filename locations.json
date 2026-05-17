@@ -1075,6 +1075,10 @@
     "continent": "North America",
     "raw": "Kitchener-Waterloo, Canada"
   },
+  "GISCIENCE": {
+    "continent": "Australia",
+    "raw": "Christchurch, New Zealand"
+  },
   "GLOBECOM": {
     "continent": "Asia",
     "raw": "Macau S.A.R., China"
@@ -1130,6 +1134,10 @@
   "HPC+QC": {
     "continent": "Europe",
     "raw": "Poznan, Poland"
+  },
+  "HPC-ODA": {
+    "continent": "North America",
+    "raw": "Chicago, IL, USA"
   },
   "HPCA": {
     "continent": "Australia",
@@ -1302,6 +1310,10 @@
   "ICCAD": {
     "continent": "Europe",
     "raw": "Munich, Germany"
+  },
+  "ICCAE": {
+    "continent": "Australia",
+    "raw": "Melbourne, Australia"
   },
   "ICCBR": {
     "continent": "Europe",
@@ -2138,6 +2150,10 @@
   "KV": {
     "continent": "Europe",
     "raw": "London-UK"
+  },
+  "LADC": {
+    "continent": "(unknown)",
+    "raw": "Salvador, Brasil"
   },
   "LAK": {
     "continent": "Europe",
