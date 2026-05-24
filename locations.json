@@ -435,6 +435,10 @@
     "continent": "Europe",
     "raw": "Angers, France"
   },
+  "CI": {
+    "continent": "North America",
+    "raw": "Near Washington, DC, USA"
+  },
   "CIAA": {
     "continent": "Europe",
     "raw": "Palermo"
@@ -1111,6 +1115,10 @@
     "continent": "North America",
     "raw": "Hilton Head Island, South Carolina, USA"
   },
+  "HCOMP": {
+    "continent": "North America",
+    "raw": "Virginia Tech, Near Washington, DC"
+  },
   "HCW": {
     "continent": "Europe",
     "raw": "Milan, Italy"
@@ -1242,6 +1250,10 @@
   "IC3": {
     "continent": "Asia",
     "raw": "Noida, India"
+  },
+  "IC3K": {
+    "continent": "Europe",
+    "raw": "Angers, France"
   },
   "ICA3PP": {
     "continent": "Europe",
@@ -2251,6 +2263,10 @@
     "continent": "Europe",
     "raw": "Naples, Italy"
   },
+  "MLSP": {
+    "continent": "North America",
+    "raw": "Atlanta, GA, USA"
+  },
   "MMEDIA": {
     "continent": "Europe",
     "raw": "Venice, Italy"
@@ -2867,6 +2883,10 @@
     "continent": "(unknown)",
     "raw": "The 28th International Symposium on Stab"
   },
+  "SST": {
+    "continent": "Europe",
+    "raw": "Osijek, Croatia"
+  },
   "SSTD": {
     "continent": "Asia",
     "raw": "Osaka, Japan"
@@ -2918,6 +2938,10 @@
   "TASE": {
     "continent": "(unknown)",
     "raw": "5* St. Raphael Resort and Marina, Limass"
+  },
+  "TEI": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
   },
   "TFP": {
     "continent": "Europe",

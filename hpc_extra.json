@@ -1,48 +1,5 @@
 [
   [
-    "RISC-V PPAM",
-    "Second PPAM Workshop on RISC-V",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260518",
-      "20260622",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
-      null
-    ],
-    [
-      null,
-      "20270518",
-      "20270622",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
-      null
-    ]
-  ],
-  [
     "VHPC",
     "21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI",
     [
@@ -215,6 +172,92 @@
     ]
   ],
   [
+    "RISC-V PPAM",
+    "Second PPAM Workshop on RISC-V",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260518",
+      "20260622",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
+      null
+    ],
+    [
+      null,
+      "20270518",
+      "20270622",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
+      null
+    ]
+  ],
+  [
+    "MHPC-IM",
+    "9th Minisymposium on High Performance Computing Interval Methods",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260830",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://ppam.edu.pl/workshops",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270830",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://ppam.edu.pl/workshops",
+      null
+    ]
+  ],
+  [
     "HPA-PDE",
     "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
     [
@@ -376,49 +419,6 @@
       "20271102",
       "20270830",
       "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://ppam.edu.pl/workshops",
-      null
-    ]
-  ],
-  [
-    "MHPC-IM",
-    "9th Minisymposium on High Performance Computing Interval Methods",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260830",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://ppam.edu.pl/workshops",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270830",
       null,
       false,
       false,
