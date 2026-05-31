@@ -1895,6 +1895,10 @@
     "continent": "North America",
     "raw": "Baltimore"
   },
+  "IPDCA": {
+    "continent": "North America",
+    "raw": "Toronto, Canada"
+  },
   "IPDPS": {
     "continent": "North America",
     "raw": "New Orleans, USA"
@@ -1938,6 +1942,10 @@
   "ISAIM": {
     "continent": "North America",
     "raw": "Fort Lauderdale, Florida, USA"
+  },
+  "ISAV": {
+    "continent": "(unknown)",
+    "raw": "Chicago"
   },
   "ISC": {
     "continent": "Europe",
@@ -2706,6 +2714,10 @@
   "SCA": {
     "continent": "Europe",
     "raw": "Barcelona, Spain"
+  },
+  "SCAM": {
+    "continent": "Europe",
+    "raw": "Benevento, Italy"
   },
   "SCN": {
     "continent": "Europe",
