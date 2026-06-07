@@ -1,48 +1,5 @@
 [
   [
-    "NHR Conference -",
-    "4th National High Performance Computing Conference 2026: Track ))HPC-Driven Decision Science((",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260601",
-      null,
-      null,
-      "20260914",
-      "20260917",
-      null,
-      true,
-      null,
-      null,
-      true,
-      true,
-      "https://www.nhr-verein.de/conference",
-      null
-    ],
-    [
-      null,
-      "20270601",
-      null,
-      null,
-      "20270914",
-      "20270917",
-      null,
-      false,
-      null,
-      null,
-      false,
-      false,
-      "https://www.nhr-verein.de/conference",
-      null
-    ]
-  ],
-  [
     "HPC-ODA",
     "The 1st International Workshop on HPC Operational Data Analytics",
     [
@@ -125,6 +82,49 @@
       false,
       false,
       "https://isav-workshop.github.io/2026/",
+      null
+    ]
+  ],
+  [
+    "NHR Conference -",
+    "4th National High Performance Computing Conference 2026: Track ))HPC-Driven Decision Science((",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260601",
+      null,
+      null,
+      "20260914",
+      "20260917",
+      null,
+      true,
+      null,
+      null,
+      true,
+      true,
+      "https://www.nhr-verein.de/conference",
+      null
+    ],
+    [
+      null,
+      "20270601",
+      null,
+      null,
+      "20270914",
+      "20270917",
+      null,
+      false,
+      null,
+      null,
+      false,
+      false,
+      "https://www.nhr-verein.de/conference",
       null
     ]
   ],
@@ -254,49 +254,6 @@
       false,
       false,
       "https://ppam.edu.pl/docs/workshops/risc-v_workshop.html",
-      null
-    ]
-  ],
-  [
-    "HPA-PDE",
-    "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
       null
     ]
   ],
@@ -469,6 +426,49 @@
       false,
       false,
       "https://ppam.edu.pl/workshops",
+      null
+    ]
+  ],
+  [
+    "HPA-PDE",
+    "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
       null
     ]
   ],
@@ -1086,9 +1086,9 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260530",
-      "20260620",
-      "20260627",
+      "20260606",
+      "20260712",
+      "20260718",
       "20260725",
       "20260726",
       null,
@@ -1102,9 +1102,9 @@
     ],
     [
       null,
-      "20270530",
-      "20270620",
-      "20270627",
+      "20270606",
+      "20270712",
+      "20270718",
       "20270725",
       "20270726",
       null,
@@ -1129,7 +1129,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260602",
+      "20260626",
       null,
       "20260731",
       "20260807",
@@ -1145,7 +1145,7 @@
     ],
     [
       null,
-      "20270602",
+      "20270626",
       null,
       "20270731",
       "20270807",
@@ -1333,49 +1333,6 @@
     ]
   ],
   [
-    "EDiS",
-    "The 5th  IEEE  International Conference on Embedded & Distributed Systems",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260601",
-      "20260701",
-      "20260910",
-      "20261102",
-      "20261105",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://univ-oran1.dz/edis/edis26/",
-      null
-    ],
-    [
-      null,
-      "20270601",
-      "20270701",
-      "20270910",
-      "20271102",
-      "20271105",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://univ-oran1.dz/edis/edis26/",
-      null
-    ]
-  ],
-  [
     "PAW-ATM",
     "PAW-ATM 2026: Parallel Applications Workshop, Alternatives To MPI+X",
     [
@@ -1415,6 +1372,49 @@
       false,
       false,
       "https://sourceryinstitute.github.io/PAW/",
+      null
+    ]
+  ],
+  [
+    "EDiS",
+    "The 5th  IEEE  International Conference on Embedded & Distributed Systems",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260601",
+      "20260701",
+      "20260910",
+      "20261102",
+      "20261105",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://univ-oran1.dz/edis/edis26/",
+      null
+    ],
+    [
+      null,
+      "20270601",
+      "20270701",
+      "20270910",
+      "20271102",
+      "20271105",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://univ-oran1.dz/edis/edis26/",
       null
     ]
   ],

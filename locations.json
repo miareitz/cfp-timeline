@@ -1911,6 +1911,10 @@
     "continent": "Europe",
     "raw": "Tampere (FI) and online"
   },
+  "IPMI": {
+    "continent": "North America",
+    "raw": "Lake Stukely, QC, Canada"
+  },
   "IPMU": {
     "continent": "Europe",
     "raw": "Rome, Italy"
@@ -2739,9 +2743,17 @@
     "continent": "Europe",
     "raw": "Krakow, Poland"
   },
+  "SECURWARE": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
+  },
   "SEKE": {
     "continent": "North America",
     "raw": "Toronto, Canada"
+  },
+  "SENSORCOMM": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
   },
   "SENSORS": {
     "continent": "(unknown)",
@@ -3138,6 +3150,10 @@
   "WIMS": {
     "continent": "Europe",
     "raw": "Thessaloniki, Greece"
+  },
+  "WIRELESS VITAE": {
+    "continent": "Europe",
+    "raw": "Barcelona, Spain"
   },
   "WISE": {
     "continent": "Europe",
