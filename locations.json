@@ -135,6 +135,10 @@
     "continent": "Europe",
     "raw": "Hamburg, Germany"
   },
+  "ALTA": {
+    "continent": "Australia",
+    "raw": "Melbourne, Australia"
+  },
   "AMSTA": {
     "continent": "Europe",
     "raw": "Solin, Croatia"
@@ -1963,6 +1967,10 @@
     "continent": "Asia",
     "raw": "Kusadasi, Turkey"
   },
+  "ISCSLP": {
+    "continent": "Asia",
+    "raw": "Penang, Malaysia"
+  },
   "ISD": {
     "continent": "Europe",
     "raw": "Czechia, Prague"
@@ -2470,6 +2478,10 @@
   "PAW-ATM": {
     "continent": "North America",
     "raw": "Chicago, IL, USA"
+  },
+  "PCDS": {
+    "continent": "Asia",
+    "raw": "Singapore"
   },
   "PCS": {
     "continent": "Europe",
