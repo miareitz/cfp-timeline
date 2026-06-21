@@ -275,6 +275,10 @@
     "continent": "Europe",
     "raw": "Athens, Greece"
   },
+  "BIBM": {
+    "continent": "North America",
+    "raw": "Dallas, TX, USA"
+  },
   "BIG DATA": {
     "continent": "Asia",
     "raw": "China"
@@ -1795,6 +1799,10 @@
     "continent": "Asia",
     "raw": "Kuala Lumpur, Malaysia"
   },
+  "IEEE CSCloud": {
+    "continent": "Asia",
+    "raw": "Shanghai, China"
+  },
   "IEEE SEC": {
     "continent": "North America",
     "raw": "Washington D.C."
@@ -2043,6 +2051,10 @@
     "continent": "Europe",
     "raw": "DESY, Hamburg, Germany"
   },
+  "ISPDS": {
+    "continent": "Asia",
+    "raw": "Kuala Lumpur, Malaysia"
+  },
   "ISPEC": {
     "continent": "Asia",
     "raw": "Chengdu"
@@ -2170,6 +2182,10 @@
   "KES": {
     "continent": "Europe",
     "raw": "Dublin, Ireland"
+  },
+  "KICSS": {
+    "continent": "Asia",
+    "raw": "Bangkok, Thailand"
   },
   "KR": {
     "continent": "Europe",
@@ -2650,6 +2666,10 @@
   "REX-IO": {
     "continent": "North America",
     "raw": "Cleveland, OH, USA"
+  },
+  "RISC-V HPC": {
+    "continent": "(unknown)",
+    "raw": "Chicago"
   },
   "RISC-V PPAM": {
     "continent": "Europe",
