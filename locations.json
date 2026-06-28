@@ -399,6 +399,10 @@
     "continent": "North America",
     "raw": "Las Vegas, NV, USA"
   },
+  "CCPCDL": {
+    "continent": "Asia",
+    "raw": "Singapore"
+  },
   "CCS": {
     "continent": "Asia",
     "raw": "Taipei, Taiwan"
@@ -1210,6 +1214,10 @@
   "HealthCom": {
     "continent": "North America",
     "raw": "New York City, New York"
+  },
+  "HiPC": {
+    "continent": "Asia",
+    "raw": "Bengaluru, India"
   },
   "HotOS": {
     "continent": "North America",

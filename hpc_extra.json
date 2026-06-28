@@ -301,92 +301,6 @@
     ]
   ],
   [
-    "HPA-PDE",
-    "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
-      null
-    ]
-  ],
-  [
-    "MAMHYP",
-    "8th WORKSHOP ON MODELS, ALGORITHMS AND METHODOLOGIES FOR HYBRID PARALLELISM IN NEW HPC SYSTEMS (MAMHYP-26)",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://sites.google.com/view/mamhyp26/",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://sites.google.com/view/mamhyp26/",
-      null
-    ]
-  ],
-  [
     "APMC",
     "Special Session on Approaches for Parallel Matrix Computations",
     [
@@ -512,6 +426,92 @@
       false,
       false,
       "https://ppam.edu.pl/workshops",
+      null
+    ]
+  ],
+  [
+    "HPA-PDE",
+    "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
+      null
+    ]
+  ],
+  [
+    "MAMHYP",
+    "8th WORKSHOP ON MODELS, ALGORITHMS AND METHODOLOGIES FOR HYBRID PARALLELISM IN NEW HPC SYSTEMS (MAMHYP-26)",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://sites.google.com/view/mamhyp26/",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://sites.google.com/view/mamhyp26/",
       null
     ]
   ],
@@ -1129,7 +1129,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260620",
+      "20260627",
       "20260712",
       "20260718",
       "20260725",
@@ -1145,7 +1145,7 @@
     ],
     [
       null,
-      "20270620",
+      "20270627",
       "20270712",
       "20270718",
       "20270725",
@@ -1172,9 +1172,9 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260626",
+      "20260715",
       null,
-      "20260731",
+      "20260725",
       "20260807",
       "20260809",
       null,
@@ -1188,9 +1188,9 @@
     ],
     [
       null,
-      "20270626",
+      "20270715",
       null,
-      "20270731",
+      "20270725",
       "20270807",
       "20270809",
       null,
@@ -1458,6 +1458,49 @@
       false,
       false,
       "https://parma-ditam-workshop.github.io/",
+      null
+    ]
+  ],
+  [
+    "CCPCDL",
+    "2026 5th International Conference on Cloud Computing, Performance Computing and Deep Learning",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260720",
+      null,
+      "20260914",
+      "20260928",
+      "20260930",
+      null,
+      true,
+      null,
+      true,
+      true,
+      true,
+      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
+      null
+    ],
+    [
+      null,
+      "20270720",
+      null,
+      "20270914",
+      "20270928",
+      "20270930",
+      null,
+      false,
+      null,
+      false,
+      false,
+      false,
+      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
       null
     ]
   ],
@@ -1974,49 +2017,6 @@
       false,
       false,
       "https://sites.google.com/lbl.gov/energy-efficient-hpc-sop-works/home",
-      null
-    ]
-  ],
-  [
-    "IEEE CSCloud",
-    "The 13th IEEE International Conference on Cyber Security and Cloud Computing",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260801",
-      "20260901",
-      "20261001",
-      "20261219",
-      "20261221",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://www.cloud-conf.net/cscloud/2026/cscloud/",
-      null
-    ],
-    [
-      null,
-      "20270801",
-      "20270901",
-      "20271001",
-      "20271219",
-      "20271221",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://www.cloud-conf.net/cscloud/2026/cscloud/",
       null
     ]
   ]
