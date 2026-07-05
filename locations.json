@@ -347,6 +347,10 @@
     "continent": "Asia",
     "raw": "Yantai, Shandong, China"
   },
+  "CAINE": {
+    "continent": "North America",
+    "raw": "San Francisco, California, USA"
+  },
   "CAIP": {
     "continent": "Europe",
     "raw": "Las Palmas de Gran Canaria, Spain"
@@ -2739,6 +2743,10 @@
     "continent": "Europe",
     "raw": "Valencia, Spain"
   },
+  "SAFEProcess": {
+    "continent": "Europe",
+    "raw": "Delft, The Netherlands"
+  },
   "SAMI": {
     "continent": "Europe",
     "raw": "Stara Lesna, Slovakia"
@@ -2810,6 +2818,10 @@
   "SERVICES": {
     "continent": "Australia",
     "raw": "Sydney, Australia"
+  },
+  "SETN": {
+    "continent": "Europe",
+    "raw": "Chania, Crete, Greece"
   },
   "SETTA": {
     "continent": "Europe",
