@@ -301,6 +301,92 @@
     ]
   ],
   [
+    "HPA-PDE",
+    "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
+      null
+    ]
+  ],
+  [
+    "MAMHYP",
+    "8th WORKSHOP ON MODELS, ALGORITHMS AND METHODOLOGIES FOR HYBRID PARALLELISM IN NEW HPC SYSTEMS (MAMHYP-26)",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://sites.google.com/view/mamhyp26/",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://sites.google.com/view/mamhyp26/",
+      null
+    ]
+  ],
+  [
     "APMC",
     "Special Session on Approaches for Parallel Matrix Computations",
     [
@@ -426,92 +512,6 @@
       false,
       false,
       "https://ppam.edu.pl/workshops",
-      null
-    ]
-  ],
-  [
-    "HPA-PDE",
-    "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
-      null
-    ]
-  ],
-  [
-    "MAMHYP",
-    "8th WORKSHOP ON MODELS, ALGORITHMS AND METHODOLOGIES FOR HYBRID PARALLELISM IN NEW HPC SYSTEMS (MAMHYP-26)",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://sites.google.com/view/mamhyp26/",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://sites.google.com/view/mamhyp26/",
       null
     ]
   ],
@@ -1129,7 +1129,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260704",
+      "20260711",
       "20260718",
       "20260722",
       "20260725",
@@ -1145,7 +1145,7 @@
     ],
     [
       null,
-      "20270704",
+      "20270711",
       "20270718",
       "20270722",
       "20270725",
@@ -1544,6 +1544,49 @@
       false,
       false,
       "https://sourceryinstitute.github.io/PAW/",
+      null
+    ]
+  ],
+  [
+    "AIAHPC",
+    "IEEE 2026 6th International Conference on Artificial Intelligence, Automation and High Performance Computing",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260731",
+      null,
+      "20260818",
+      "20260918",
+      "20260920",
+      null,
+      true,
+      null,
+      true,
+      true,
+      true,
+      "https://ais.cn/u/7VjIRf",
+      null
+    ],
+    [
+      null,
+      "20270731",
+      null,
+      "20270818",
+      "20270918",
+      "20270920",
+      null,
+      false,
+      null,
+      false,
+      false,
+      false,
+      "https://ais.cn/u/7VjIRf",
       null
     ]
   ],

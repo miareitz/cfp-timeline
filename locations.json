@@ -95,6 +95,10 @@
     "continent": "Asia",
     "raw": "Hangzhou, China"
   },
+  "AIAHPC": {
+    "continent": "Asia",
+    "raw": "Xi'an, China"
+  },
   "AIAI": {
     "continent": "Europe",
     "raw": "Crete city of Chania, Greece"
@@ -266,6 +270,10 @@
   "BCB": {
     "continent": "North America",
     "raw": "Philadelphia, PA"
+  },
+  "BDCAT": {
+    "continent": "South America",
+    "raw": "Florianopolis, Brazil"
   },
   "BHI": {
     "continent": "North America",
@@ -618,6 +626,10 @@
   "CSNDSP": {
     "continent": "Europe",
     "raw": "The University of Edinburgh, UK"
+  },
+  "CSSE": {
+    "continent": "(unknown)",
+    "raw": "Virtual Conference"
   },
   "CVMP": {
     "continent": "Europe",
@@ -1442,6 +1454,10 @@
   "ICDT": {
     "continent": "Europe",
     "raw": "Barcelona, Spain"
+  },
+  "ICEBE": {
+    "continent": "Asia",
+    "raw": "Wuhan, China"
   },
   "ICEC": {
     "continent": "Europe",
@@ -3050,6 +3066,10 @@
   "UBICOMM": {
     "continent": "Europe",
     "raw": "Barcelona, Spain"
+  },
+  "UCC": {
+    "continent": "South America",
+    "raw": "Florian\u00c3\u00b3polis, Brazil"
   },
   "UIST": {
     "continent": "North America",
