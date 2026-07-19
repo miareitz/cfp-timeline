@@ -1118,92 +1118,6 @@
     ]
   ],
   [
-    "IPDCA",
-    "15th International conference on Parallel, Distributed Computing and Applications",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260711",
-      "20260718",
-      "20260722",
-      "20260725",
-      "20260726",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://dami2026.org/ipdca/index",
-      null
-    ],
-    [
-      null,
-      "20270711",
-      "20270718",
-      "20270722",
-      "20270725",
-      "20270726",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://dami2026.org/ipdca/index",
-      null
-    ]
-  ],
-  [
-    "ECPDC",
-    "2026 3rd International Conference on Edge Computing, Parallel and Distributed Computing",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260715",
-      null,
-      "20260725",
-      "20260807",
-      "20260809",
-      null,
-      true,
-      null,
-      true,
-      true,
-      true,
-      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
-      null
-    ],
-    [
-      null,
-      "20270715",
-      null,
-      "20270725",
-      "20270807",
-      "20270809",
-      null,
-      false,
-      null,
-      false,
-      false,
-      false,
-      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
-      null
-    ]
-  ],
-  [
     "ISPDS",
     "IEEE 2026 7th International Conference on Information Science, Parallel and Distributed Systems",
     [
@@ -1286,6 +1200,49 @@
       false,
       false,
       "https://pcds.cc/",
+      null
+    ]
+  ],
+  [
+    "ECPDC",
+    "2026 3rd International Conference on Edge Computing, Parallel and Distributed Computing",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260717",
+      null,
+      "20260725",
+      "20260807",
+      "20260809",
+      null,
+      true,
+      null,
+      true,
+      true,
+      true,
+      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
+      null
+    ],
+    [
+      null,
+      "20270717",
+      null,
+      "20270725",
+      "20270807",
+      "20270809",
+      null,
+      false,
+      null,
+      false,
+      false,
+      false,
+      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
       null
     ]
   ],

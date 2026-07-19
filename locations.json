@@ -2647,6 +2647,10 @@
     "continent": "Europe",
     "raw": "Hamburg, Germany"
   },
+  "PoEM": {
+    "continent": "(unknown)",
+    "raw": "Mytilene"
+  },
   "ProvSec": {
     "continent": "Australia",
     "raw": "Queenstown, New Zealand"
@@ -2770,6 +2774,10 @@
   "SANER": {
     "continent": "(unknown)",
     "raw": "5* St. Raphael Resort and Marina, Limass"
+  },
+  "SAP": {
+    "continent": "Asia",
+    "raw": "Gwangju, South Korea"
   },
   "SBAC-PAD": {
     "continent": "Europe",
