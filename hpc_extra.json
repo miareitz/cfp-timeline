@@ -43,6 +43,49 @@
     ]
   ],
   [
+    "AIonHPC",
+    "AI on HPC - Performance Engineering, Challenges and Opportunities",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260731",
+      "20260904",
+      "20260925",
+      "20261116",
+      "20261116",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://ai-on-hpc.github.io/sc26/",
+      null
+    ],
+    [
+      null,
+      "20270731",
+      "20270904",
+      "20270925",
+      "20271116",
+      "20271116",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://ai-on-hpc.github.io/sc26/",
+      null
+    ]
+  ],
+  [
     "RISC-V HPC",
     "RISC-V for HPC SC26 workshop",
     [
@@ -301,6 +344,49 @@
     ]
   ],
   [
+    "MHPC-IM",
+    "9th Minisymposium on High Performance Computing Interval Methods",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260830",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://ppam.edu.pl/workshops",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270830",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://ppam.edu.pl/workshops",
+      null
+    ]
+  ],
+  [
     "HPA-PDE",
     "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
     [
@@ -462,49 +548,6 @@
       "20271102",
       "20270830",
       "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://ppam.edu.pl/workshops",
-      null
-    ]
-  ],
-  [
-    "MHPC-IM",
-    "9th Minisymposium on High Performance Computing Interval Methods",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260830",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://ppam.edu.pl/workshops",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270830",
       null,
       false,
       false,
@@ -684,49 +727,6 @@
       false,
       false,
       "https://carv-ics-forth.github.io/wocc/",
-      null
-    ]
-  ],
-  [
-    "AIonHPC",
-    "AI on HPC - Performance Engineering, Challenges and Opportunities",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260315",
-      "20260413",
-      "20260511",
-      "20260626",
-      "20260626",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://ai-on-hpc.github.io/",
-      null
-    ],
-    [
-      null,
-      "20270315",
-      "20270413",
-      "20270511",
-      "20270626",
-      "20270626",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://ai-on-hpc.github.io/",
       null
     ]
   ],
@@ -1118,6 +1118,49 @@
     ]
   ],
   [
+    "ECPDC",
+    "2026 3rd International Conference on Edge Computing, Parallel and Distributed Computing",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260725",
+      null,
+      "20260725",
+      "20260807",
+      "20260809",
+      null,
+      true,
+      null,
+      true,
+      true,
+      true,
+      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
+      null
+    ],
+    [
+      null,
+      "20270725",
+      null,
+      "20270725",
+      "20270807",
+      "20270809",
+      null,
+      false,
+      null,
+      false,
+      false,
+      false,
+      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
+      null
+    ]
+  ],
+  [
     "ISPDS",
     "IEEE 2026 7th International Conference on Information Science, Parallel and Distributed Systems",
     [
@@ -1200,49 +1243,6 @@
       false,
       false,
       "https://pcds.cc/",
-      null
-    ]
-  ],
-  [
-    "ECPDC",
-    "2026 3rd International Conference on Edge Computing, Parallel and Distributed Computing",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260717",
-      null,
-      "20260725",
-      "20260807",
-      "20260809",
-      null,
-      true,
-      null,
-      true,
-      true,
-      true,
-      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
-      null
-    ],
-    [
-      null,
-      "20270717",
-      null,
-      "20270725",
-      "20270807",
-      "20270809",
-      null,
-      false,
-      null,
-      false,
-      false,
-      false,
-      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
       null
     ]
   ],
@@ -1430,7 +1430,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260720",
+      "20260731",
       null,
       "20260914",
       "20260928",
@@ -1446,7 +1446,7 @@
     ],
     [
       null,
-      "20270720",
+      "20270731",
       null,
       "20270914",
       "20270928",
@@ -1458,49 +1458,6 @@
       false,
       false,
       "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
-      null
-    ]
-  ],
-  [
-    "PAW-ATM",
-    "PAW-ATM 2026: Parallel Applications Workshop, Alternatives To MPI+X",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260724",
-      "20260830",
-      "20260925",
-      "20261115",
-      "20261120",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://sourceryinstitute.github.io/PAW/",
-      null
-    ],
-    [
-      null,
-      "20270724",
-      "20270830",
-      "20270925",
-      "20271115",
-      "20271120",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://sourceryinstitute.github.io/PAW/",
       null
     ]
   ],
@@ -1544,6 +1501,49 @@
       false,
       false,
       "https://ais.cn/u/7VjIRf",
+      null
+    ]
+  ],
+  [
+    "PAW-ATM",
+    "PAW-ATM 2026: Parallel Applications Workshop, Alternatives To MPI+X",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260724",
+      "20260830",
+      "20260925",
+      "20261115",
+      "20261120",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://sourceryinstitute.github.io/PAW/",
+      null
+    ],
+    [
+      null,
+      "20270724",
+      "20270830",
+      "20270925",
+      "20271115",
+      "20271120",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://sourceryinstitute.github.io/PAW/",
       null
     ]
   ],
@@ -1716,6 +1716,49 @@
       false,
       false,
       "https://www.hpcct.org/",
+      null
+    ]
+  ],
+  [
+    "ICADCML",
+    "8th International Conference on Advances in Distributed Computing and Machine Learning",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260910",
+      "20261120",
+      "20261130",
+      "20270128",
+      "20270129",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://icadcml.in/",
+      null
+    ],
+    [
+      null,
+      "20270910",
+      "20271120",
+      "20271130",
+      "20280128",
+      "20280129",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://icadcml.in/",
       null
     ]
   ],

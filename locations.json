@@ -1307,6 +1307,10 @@
     "continent": "Asia",
     "raw": "Hangzhou, China"
   },
+  "ICADCML": {
+    "continent": "(unknown)",
+    "raw": "Jamshedpur"
+  },
   "ICADL": {
     "continent": "Asia",
     "raw": "Manila, Philippines"
@@ -2494,6 +2498,10 @@
   "PACBB": {
     "continent": "Europe",
     "raw": "Naples, Italy"
+  },
+  "PACLIC": {
+    "continent": "Asia",
+    "raw": "Taipei, Taiwan"
   },
   "PACT": {
     "continent": "North America",
