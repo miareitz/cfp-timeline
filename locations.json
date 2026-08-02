@@ -695,6 +695,10 @@
     "continent": "Europe",
     "raw": "Porto, Portugal"
   },
+  "DATE": {
+    "continent": "Europe",
+    "raw": "Dresden, Germany"
+  },
   "DB&IS": {
     "continent": "Europe",
     "raw": "Tartu, Estonia"
@@ -1166,6 +1170,10 @@
   "HPA-PDE": {
     "continent": "Europe",
     "raw": "Pozna\u00c5\u0084, Poland"
+  },
+  "HPC Asia": {
+    "continent": "Asia",
+    "raw": "Seoul, Korea"
   },
   "HPC+QC": {
     "continent": "Europe",
@@ -1639,6 +1647,10 @@
     "continent": "Europe",
     "raw": "Budapest, Hungary"
   },
+  "ICN": {
+    "continent": "Asia",
+    "raw": "Changzhou, China"
+  },
   "ICNC": {
     "continent": "Asia",
     "raw": "Taiyuan, Shanxi, China"
@@ -1838,6 +1850,10 @@
   "IEEE SEC": {
     "continent": "North America",
     "raw": "Washington D.C."
+  },
+  "IEEE-AIBDCC": {
+    "continent": "Asia",
+    "raw": "Cchengdu, China"
   },
   "IEMDC": {
     "continent": "North America",
@@ -2539,6 +2555,10 @@
     "continent": "Europe",
     "raw": "Aachen, Germany"
   },
+  "PDAA": {
+    "continent": "Asia",
+    "raw": "Ishigaki, Japan"
+  },
   "PDCAT": {
     "continent": "Australia",
     "raw": "Gold Coast, Australia"
@@ -2642,6 +2662,10 @@
   "PSC": {
     "continent": "Europe",
     "raw": "Prague, Czech Republic"
+  },
+  "PSCE": {
+    "continent": "Asia",
+    "raw": "Hong Kong, China"
   },
   "PSD": {
     "continent": "Europe",

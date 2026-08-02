@@ -1,91 +1,5 @@
 [
   [
-    "HPC-ODA",
-    "The 1st International Workshop on HPC Operational Data Analytics",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260731",
-      "20260904",
-      "20260918",
-      "20261115",
-      "20261120",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://hpc-oda.org/workshop2026/",
-      null
-    ],
-    [
-      null,
-      "20270731",
-      "20270904",
-      "20270918",
-      "20271115",
-      "20271120",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://hpc-oda.org/workshop2026/",
-      null
-    ]
-  ],
-  [
-    "AIonHPC",
-    "AI on HPC - Performance Engineering, Challenges and Opportunities",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260731",
-      "20260904",
-      "20260925",
-      "20261116",
-      "20261116",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://ai-on-hpc.github.io/sc26/",
-      null
-    ],
-    [
-      null,
-      "20270731",
-      "20270904",
-      "20270925",
-      "20271116",
-      "20271116",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://ai-on-hpc.github.io/sc26/",
-      null
-    ]
-  ],
-  [
     "RISC-V HPC",
     "RISC-V for HPC SC26 workshop",
     [
@@ -168,6 +82,92 @@
       false,
       false,
       "https://isav-workshop.github.io/2026/",
+      null
+    ]
+  ],
+  [
+    "AIonHPC",
+    "AI on HPC - Performance Engineering, Challenges and Opportunities",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260731",
+      "20260904",
+      "20260925",
+      "20261116",
+      "20261116",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://ai-on-hpc.github.io/sc26/",
+      null
+    ],
+    [
+      null,
+      "20270731",
+      "20270904",
+      "20270925",
+      "20271116",
+      "20271116",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://ai-on-hpc.github.io/sc26/",
+      null
+    ]
+  ],
+  [
+    "HPC-ODA",
+    "The 1st International Workshop on HPC Operational Data Analytics",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260731",
+      "20260904",
+      "20260918",
+      "20261115",
+      "20261120",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://hpc-oda.org/workshop2026/",
+      null
+    ],
+    [
+      null,
+      "20270731",
+      "20270904",
+      "20270918",
+      "20271115",
+      "20271120",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://hpc-oda.org/workshop2026/",
       null
     ]
   ],
@@ -344,92 +344,6 @@
     ]
   ],
   [
-    "MHPC-IM",
-    "9th Minisymposium on High Performance Computing Interval Methods",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260830",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://ppam.edu.pl/workshops",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270830",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://ppam.edu.pl/workshops",
-      null
-    ]
-  ],
-  [
-    "HPA-PDE",
-    "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260511",
-      "20260615",
-      "20261102",
-      "20260830",
-      "20260902",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
-      null
-    ],
-    [
-      null,
-      "20270511",
-      "20270615",
-      "20271102",
-      "20270830",
-      "20270902",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
-      null
-    ]
-  ],
-  [
     "MAMHYP",
     "8th WORKSHOP ON MODELS, ALGORITHMS AND METHODOLOGIES FOR HYBRID PARALLELISM IN NEW HPC SYSTEMS (MAMHYP-26)",
     [
@@ -555,6 +469,92 @@
       false,
       false,
       "https://ppam.edu.pl/workshops",
+      null
+    ]
+  ],
+  [
+    "MHPC-IM",
+    "9th Minisymposium on High Performance Computing Interval Methods",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260830",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://ppam.edu.pl/workshops",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270830",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://ppam.edu.pl/workshops",
+      null
+    ]
+  ],
+  [
+    "HPA-PDE",
+    "6th Workshop on Applied High Performance Numerical Algorithms for PDEs",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260511",
+      "20260615",
+      "20261102",
+      "20260830",
+      "20260902",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
+      null
+    ],
+    [
+      null,
+      "20270511",
+      "20270615",
+      "20271102",
+      "20270830",
+      "20270902",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://www.mimuw.edu.pl/~lmarcin/ppam2026/",
       null
     ]
   ],
@@ -1118,49 +1118,6 @@
     ]
   ],
   [
-    "ECPDC",
-    "2026 3rd International Conference on Edge Computing, Parallel and Distributed Computing",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260725",
-      null,
-      "20260725",
-      "20260807",
-      "20260809",
-      null,
-      true,
-      null,
-      true,
-      true,
-      true,
-      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
-      null
-    ],
-    [
-      null,
-      "20270725",
-      null,
-      "20270725",
-      "20270807",
-      "20270809",
-      null,
-      false,
-      null,
-      false,
-      false,
-      false,
-      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
-      null
-    ]
-  ],
-  [
     "ISPDS",
     "IEEE 2026 7th International Conference on Information Science, Parallel and Distributed Systems",
     [
@@ -1172,7 +1129,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260801",
+      "20260807",
       null,
       "20260904",
       "20260918",
@@ -1188,7 +1145,7 @@
     ],
     [
       null,
-      "20270801",
+      "20270807",
       null,
       "20270904",
       "20270918",
@@ -1243,6 +1200,49 @@
       false,
       false,
       "https://pcds.cc/",
+      null
+    ]
+  ],
+  [
+    "ECPDC",
+    "2026 3rd International Conference on Edge Computing, Parallel and Distributed Computing",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260725",
+      null,
+      "20260725",
+      "20260807",
+      "20260809",
+      null,
+      true,
+      null,
+      true,
+      true,
+      true,
+      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
+      null
+    ],
+    [
+      null,
+      "20270725",
+      null,
+      "20270725",
+      "20270807",
+      "20270809",
+      null,
+      false,
+      null,
+      false,
+      false,
+      false,
+      "https://www.aischolar.com/conference/ecpdc2026?invite=wiki",
       null
     ]
   ],
@@ -1419,49 +1419,6 @@
     ]
   ],
   [
-    "CCPCDL",
-    "2026 5th International Conference on Cloud Computing, Performance Computing and Deep Learning",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260731",
-      null,
-      "20260914",
-      "20260928",
-      "20260930",
-      null,
-      true,
-      null,
-      true,
-      true,
-      true,
-      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
-      null
-    ],
-    [
-      null,
-      "20270731",
-      null,
-      "20270914",
-      "20270928",
-      "20270930",
-      null,
-      false,
-      null,
-      false,
-      false,
-      false,
-      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
-      null
-    ]
-  ],
-  [
     "AIAHPC",
     "IEEE 2026 6th International Conference on Artificial Intelligence, Automation and High Performance Computing",
     [
@@ -1473,7 +1430,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260731",
+      "20260807",
       null,
       "20260818",
       "20260918",
@@ -1489,7 +1446,7 @@
     ],
     [
       null,
-      "20270731",
+      "20270807",
       null,
       "20270818",
       "20270918",
@@ -1501,6 +1458,49 @@
       false,
       false,
       "https://ais.cn/u/7VjIRf",
+      null
+    ]
+  ],
+  [
+    "CCPCDL",
+    "2026 5th International Conference on Cloud Computing, Performance Computing and Deep Learning",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260813",
+      null,
+      "20260914",
+      "20260928",
+      "20260930",
+      null,
+      true,
+      null,
+      true,
+      true,
+      true,
+      "https://ais.cn/u/VVVvMj",
+      null
+    ],
+    [
+      null,
+      "20270813",
+      null,
+      "20270914",
+      "20270928",
+      "20270930",
+      null,
+      false,
+      null,
+      false,
+      false,
+      false,
+      "https://ais.cn/u/VVVvMj",
       null
     ]
   ],
@@ -2060,6 +2060,92 @@
       false,
       false,
       "https://sites.google.com/lbl.gov/energy-efficient-hpc-sop-works/home",
+      null
+    ]
+  ],
+  [
+    "PDAA",
+    "PDAA 2026 : 18th International Workshop on Parallel and Distributed Algorithms and Applications (PDAA)",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      "20260815",
+      "20260820",
+      "20260925",
+      "20261016",
+      "20261124",
+      "20261127",
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://is-candar.org/pdaa26",
+      null
+    ],
+    [
+      "20270815",
+      "20270820",
+      "20270925",
+      "20271016",
+      "20271124",
+      "20271127",
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://is-candar.org/pdaa26",
+      null
+    ]
+  ],
+  [
+    "IEEE-AIBDCC",
+    "2026 IEEE International Conference on Artificial Intelligence, Big Data and Cloud Computing (AIBDCC 2026)",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260930",
+      null,
+      null,
+      "20261030",
+      "20261031",
+      null,
+      true,
+      null,
+      null,
+      true,
+      true,
+      "https://www.aibdcc.net/",
+      null
+    ],
+    [
+      null,
+      "20270930",
+      null,
+      null,
+      "20271030",
+      "20271031",
+      null,
+      false,
+      null,
+      null,
+      false,
+      false,
+      "https://www.aibdcc.net/",
       null
     ]
   ]
