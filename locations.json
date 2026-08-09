@@ -819,6 +819,10 @@
     "continent": "Europe",
     "raw": "Malm\u00c3\u00b6, Sweden"
   },
+  "ECHO": {
+    "continent": "North America",
+    "raw": "Chicago, IL, USA"
+  },
   "ECIR": {
     "continent": "(unknown)",
     "raw": "Lucca Tuscany"
