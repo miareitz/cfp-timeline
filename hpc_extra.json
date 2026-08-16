@@ -1161,49 +1161,6 @@
     ]
   ],
   [
-    "ISPDS",
-    "IEEE 2026 7th International Conference on Information Science, Parallel and Distributed Systems",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260809",
-      null,
-      "20260904",
-      "20260918",
-      "20260920",
-      null,
-      true,
-      null,
-      true,
-      true,
-      true,
-      "https://www.aischolar.com/conference/ispds2026?invite=wiki",
-      null
-    ],
-    [
-      null,
-      "20270809",
-      null,
-      "20270904",
-      "20270918",
-      "20270920",
-      null,
-      false,
-      null,
-      false,
-      false,
-      false,
-      "https://www.aischolar.com/conference/ispds2026?invite=wiki",
-      null
-    ]
-  ],
-  [
     "PCDS",
     "The 3rd International Symposium on Parallel Computing and Distributed Systems (PCDS 2026)",
     [
@@ -1243,6 +1200,49 @@
       false,
       false,
       "https://pcds.cc/",
+      null
+    ]
+  ],
+  [
+    "ISPDS",
+    "IEEE 2026 7th International Conference on Information Science, Parallel and Distributed Systems",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260831",
+      null,
+      "20260904",
+      "20260918",
+      "20260920",
+      null,
+      true,
+      null,
+      true,
+      true,
+      true,
+      "https://www.aischolar.com/conference/ispds2026?invite=wiki",
+      null
+    ],
+    [
+      null,
+      "20270831",
+      null,
+      "20270904",
+      "20270918",
+      "20270920",
+      null,
+      false,
+      null,
+      false,
+      false,
+      false,
+      "https://www.aischolar.com/conference/ispds2026?invite=wiki",
       null
     ]
   ],
@@ -1473,7 +1473,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260813",
+      "20260821",
       null,
       "20260914",
       "20260928",
@@ -1484,12 +1484,12 @@
       true,
       true,
       true,
-      "https://ais.cn/u/VVVvMj",
+      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
       null
     ],
     [
       null,
-      "20270813",
+      "20270821",
       null,
       "20270914",
       "20270928",
@@ -1500,7 +1500,7 @@
       false,
       false,
       false,
-      "https://ais.cn/u/VVVvMj",
+      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
       null
     ]
   ],
@@ -1516,7 +1516,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260814",
+      "20260821",
       null,
       "20260821",
       "20260918",
@@ -1532,7 +1532,7 @@
     ],
     [
       null,
-      "20270814",
+      "20270821",
       null,
       "20270821",
       "20270918",
