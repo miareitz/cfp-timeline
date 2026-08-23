@@ -127,6 +127,10 @@
     "continent": "Asia",
     "raw": "Quzhou, China"
   },
+  "AISC": {
+    "continent": "Europe",
+    "raw": "London, United Kingdom"
+  },
   "AIST": {
     "continent": "Asia",
     "raw": "Astana, Kazakhstan"
@@ -1671,6 +1675,10 @@
     "continent": "Europe",
     "raw": "Valencia, Spain"
   },
+  "ICNSC": {
+    "continent": "Asia",
+    "raw": "Chongqing, China"
+  },
   "ICOIN": {
     "continent": "Asia",
     "raw": "Hanoi, Vietnam"
@@ -2566,6 +2574,10 @@
   "PDCAT": {
     "continent": "Australia",
     "raw": "Gold Coast, Australia"
+  },
+  "PDCTA": {
+    "continent": "Europe",
+    "raw": "London, United Kingdom"
   },
   "PDP": {
     "continent": "Europe",

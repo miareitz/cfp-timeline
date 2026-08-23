@@ -1161,8 +1161,8 @@
     ]
   ],
   [
-    "PCDS",
-    "The 3rd International Symposium on Parallel Computing and Distributed Systems (PCDS 2026)",
+    "PDCTA",
+    "15th International Conference on Parallel, Distributed Computing Technologies and Applications",
     [
       null
     ],
@@ -1172,34 +1172,34 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260817",
-      "20260917",
-      "20261017",
-      "20261116",
-      "20261128",
+      "20260822",
+      "20261024",
+      "20261031",
+      "20261121",
+      "20261122",
       null,
       true,
       true,
       true,
       true,
       true,
-      "https://pcds.cc/",
+      "https://soen2026.org/pdcta/index",
       null
     ],
     [
       null,
-      "20270817",
-      "20270917",
-      "20271017",
-      "20271116",
-      "20271128",
+      "20270822",
+      "20271024",
+      "20271031",
+      "20271121",
+      "20271122",
       null,
       false,
       false,
       false,
       false,
       false,
-      "https://pcds.cc/",
+      "https://soen2026.org/pdcta/index",
       null
     ]
   ],
@@ -1243,6 +1243,49 @@
       false,
       false,
       "https://www.aischolar.com/conference/ispds2026?invite=wiki",
+      null
+    ]
+  ],
+  [
+    "PCDS",
+    "The 3rd International Symposium on Parallel Computing and Distributed Systems (PCDS 2026)",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260927",
+      "20261011",
+      "20261018",
+      "20261116",
+      "20261128",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://pcds.cc/",
+      null
+    ],
+    [
+      null,
+      "20270927",
+      "20271011",
+      "20271018",
+      "20271116",
+      "20271128",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://pcds.cc/",
       null
     ]
   ],
@@ -1473,7 +1516,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260821",
+      "20260828",
       null,
       "20260914",
       "20260928",
@@ -1484,12 +1527,12 @@
       true,
       true,
       true,
-      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
+      "https://ais.cn/u/VVVvMj",
       null
     ],
     [
       null,
-      "20270821",
+      "20270828",
       null,
       "20270914",
       "20270928",
@@ -1500,7 +1543,7 @@
       false,
       false,
       false,
-      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
+      "https://ais.cn/u/VVVvMj",
       null
     ]
   ],
@@ -1516,9 +1559,9 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260821",
+      "20260828",
       null,
-      "20260821",
+      "20260828",
       "20260918",
       "20260920",
       null,
@@ -1532,9 +1575,9 @@
     ],
     [
       null,
-      "20270821",
+      "20270828",
       null,
-      "20270821",
+      "20270828",
       "20270918",
       "20270920",
       null,
