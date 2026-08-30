@@ -395,6 +395,10 @@
     "continent": "Australia",
     "raw": "Sydney, Australia"
   },
+  "CCA": {
+    "continent": "Africa",
+    "raw": "Algeria"
+  },
   "CCCG": {
     "continent": "North America",
     "raw": "Orillia, Ontario, Canada"
@@ -726,6 +730,10 @@
   "DEBS": {
     "continent": "Europe",
     "raw": "Lisbon, Portugal"
+  },
+  "DEON": {
+    "continent": "Asia",
+    "raw": "Hangzhou, China"
   },
   "DEXA": {
     "continent": "Europe",
