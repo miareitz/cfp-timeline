@@ -1161,6 +1161,49 @@
     ]
   ],
   [
+    "PDCTA",
+    "15th International Conference on Parallel, Distributed Computing Technologies and Applications",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260906",
+      "20261024",
+      "20261031",
+      "20261121",
+      "20261122",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://soen2026.org/pdcta/index",
+      null
+    ],
+    [
+      null,
+      "20270906",
+      "20271024",
+      "20271031",
+      "20271121",
+      "20271122",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://soen2026.org/pdcta/index",
+      null
+    ]
+  ],
+  [
     "ISPDS",
     "IEEE 2026 7th International Conference on Information Science, Parallel and Distributed Systems",
     [
@@ -1172,9 +1215,9 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260831",
+      "20260911",
       null,
-      "20260904",
+      "20260917",
       "20260928",
       "20260930",
       null,
@@ -1188,9 +1231,9 @@
     ],
     [
       null,
-      "20270831",
+      "20270911",
       null,
-      "20270904",
+      "20270917",
       "20270928",
       "20270930",
       null,
@@ -1286,49 +1329,6 @@
       false,
       false,
       "https://parma-ditam-workshop.github.io/",
-      null
-    ]
-  ],
-  [
-    "PDCTA",
-    "15th International Conference on Parallel, Distributed Computing Technologies and Applications",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260828",
-      "20261024",
-      "20261031",
-      "20261121",
-      "20261122",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://soen2026.org/pdcta/index",
-      null
-    ],
-    [
-      null,
-      "20270828",
-      "20271024",
-      "20271031",
-      "20271121",
-      "20271122",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://soen2026.org/pdcta/index",
       null
     ]
   ],
@@ -1505,49 +1505,6 @@
     ]
   ],
   [
-    "AIAHPC",
-    "IEEE 2026 6th International Conference on Artificial Intelligence, Automation and High Performance Computing",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260904",
-      null,
-      "20260904",
-      "20260918",
-      "20260920",
-      null,
-      true,
-      null,
-      true,
-      true,
-      true,
-      "https://ais.cn/u/7VjIRf",
-      null
-    ],
-    [
-      null,
-      "20270904",
-      null,
-      "20270904",
-      "20270918",
-      "20270920",
-      null,
-      false,
-      null,
-      false,
-      false,
-      false,
-      "https://ais.cn/u/7VjIRf",
-      null
-    ]
-  ],
-  [
     "CCPCDL",
     "2026 5th International Conference on Cloud Computing, Performance Computing and Deep Learning",
     [
@@ -1587,6 +1544,49 @@
       false,
       false,
       "https://ais.cn/u/VVVvMj",
+      null
+    ]
+  ],
+  [
+    "AIAHPC",
+    "IEEE 2026 6th International Conference on Artificial Intelligence, Automation and High Performance Computing",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260904",
+      null,
+      "20260904",
+      "20260918",
+      "20260920",
+      null,
+      true,
+      null,
+      true,
+      true,
+      true,
+      "https://ais.cn/u/7VjIRf",
+      null
+    ],
+    [
+      null,
+      "20270904",
+      null,
+      "20270904",
+      "20270918",
+      "20270920",
+      null,
+      false,
+      null,
+      false,
+      false,
+      false,
+      "https://ais.cn/u/7VjIRf",
       null
     ]
   ],
