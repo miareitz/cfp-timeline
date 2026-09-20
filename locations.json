@@ -51,6 +51,10 @@
     "continent": "North America",
     "raw": "San Diego, CA, United States"
   },
+  "ACM CCIOT": {
+    "continent": "Asia",
+    "raw": "Okinawa, Japan"
+  },
   "ACM HP3C": {
     "continent": "Asia",
     "raw": "Jinan, China"
@@ -90,6 +94,10 @@
   "AHPC3": {
     "continent": "Europe",
     "raw": "Cluj-Napoca, Romania"
+  },
+  "AHPCAI": {
+    "continent": "Asia",
+    "raw": "Guangzhou, China"
   },
   "AI": {
     "continent": "Asia",
@@ -418,6 +426,10 @@
   "CCGrid": {
     "continent": "Australia",
     "raw": "Sydney, Australia"
+  },
+  "CCIOT": {
+    "continent": "Asia",
+    "raw": "Okinawa, Japan"
   },
   "CCNC": {
     "continent": "North America",
@@ -951,6 +963,10 @@
     "continent": "Asia",
     "raw": "Tokyo,Japan"
   },
+  "EPE": {
+    "continent": "Asia",
+    "raw": "Chengdu, China"
+  },
   "EPIA": {
     "continent": "Europe",
     "raw": "Madeira, Portugal"
@@ -1342,6 +1358,10 @@
   "ICADL": {
     "continent": "Asia",
     "raw": "Manila, Philippines"
+  },
+  "ICAIL": {
+    "continent": "Europe",
+    "raw": "Vienna (Austria)"
   },
   "ICAISC": {
     "continent": "Europe",
@@ -3298,6 +3318,10 @@
   "WISE": {
     "continent": "Europe",
     "raw": "Venice, Italy"
+  },
+  "WISTP": {
+    "continent": "Africa",
+    "raw": "Djerba, Tunisia"
   },
   "WLPP": {
     "continent": "Europe",
