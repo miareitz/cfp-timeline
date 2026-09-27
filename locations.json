@@ -2651,6 +2651,10 @@
     "continent": "Asia",
     "raw": "Guangzhou, China"
   },
+  "PLANS": {
+    "continent": "North America",
+    "raw": "Portland, Oregon, USA"
+  },
   "PLAS": {
     "continent": "Europe",
     "raw": "The Hague, The Netherlands"

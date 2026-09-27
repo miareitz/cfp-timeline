@@ -1204,6 +1204,49 @@
     ]
   ],
   [
+    "PDCTA",
+    "15th International Conference on Parallel, Distributed Computing Technologies and Applications",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260926",
+      "20261024",
+      "20261031",
+      "20261121",
+      "20261122",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://soen2026.org/pdcta/index",
+      null
+    ],
+    [
+      null,
+      "20270926",
+      "20271024",
+      "20271031",
+      "20271121",
+      "20271122",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://soen2026.org/pdcta/index",
+      null
+    ]
+  ],
+  [
     "PCDS",
     "The 3rd International Symposium on Parallel Computing and Distributed Systems (PCDS 2026)",
     [
@@ -1561,7 +1604,7 @@
       null,
       "20260918",
       null,
-      "20260921",
+      "20260918",
       "20260928",
       "20260930",
       null,
@@ -1570,14 +1613,14 @@
       true,
       true,
       true,
-      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
+      "https://ais.cn/u/VVVvMj",
       null
     ],
     [
       null,
       "20270918",
       null,
-      "20270921",
+      "20270918",
       "20270928",
       "20270930",
       null,
@@ -1586,7 +1629,7 @@
       false,
       false,
       false,
-      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
+      "https://ais.cn/u/VVVvMj",
       null
     ]
   ],
@@ -2146,135 +2189,6 @@
       false,
       false,
       "https://sites.google.com/lbl.gov/energy-efficient-hpc-sop-works/home",
-      null
-    ]
-  ],
-  [
-    "ACM CCIOT",
-    "ACM--2026 11th International Conference on Cloud Computing and Internet of Things (CCIOT 2026)",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260901",
-      null,
-      null,
-      "20261024",
-      "20261026",
-      null,
-      true,
-      null,
-      null,
-      true,
-      true,
-      "https://cciot.org/",
-      null
-    ],
-    [
-      null,
-      "20270901",
-      null,
-      null,
-      "20271024",
-      "20271026",
-      null,
-      false,
-      null,
-      null,
-      false,
-      false,
-      "https://cciot.org/",
-      null
-    ]
-  ],
-  [
-    "CCIOT",
-    "ACM--2026 11th International Conference on Cloud Computing and Internet of Things (CCIOT 2026)",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260901",
-      null,
-      null,
-      "20261024",
-      "20261026",
-      null,
-      true,
-      null,
-      null,
-      true,
-      true,
-      "https://cciot.org/",
-      null
-    ],
-    [
-      null,
-      "20270901",
-      null,
-      null,
-      "20271024",
-      "20271026",
-      null,
-      false,
-      null,
-      null,
-      false,
-      false,
-      "https://cciot.org/",
-      null
-    ]
-  ],
-  [
-    "ICBICC",
-    "2027 2nd International Conference on Big Data, IoT, and Cloud Computing",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20270416",
-      null,
-      null,
-      "20270911",
-      "20270913",
-      null,
-      true,
-      null,
-      null,
-      true,
-      true,
-      "http://www.icbicc.org",
-      null
-    ],
-    [
-      null,
-      "20280416",
-      null,
-      null,
-      "20280911",
-      "20280913",
-      null,
-      false,
-      null,
-      null,
-      false,
-      false,
-      "http://www.icbicc.org",
       null
     ]
   ]
