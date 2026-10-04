@@ -1215,7 +1215,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20260926",
+      "20261003",
       "20261024",
       "20261031",
       "20261121",
@@ -1231,7 +1231,7 @@
     ],
     [
       null,
-      "20270926",
+      "20271003",
       "20271024",
       "20271031",
       "20271121",
@@ -1243,49 +1243,6 @@
       false,
       false,
       "https://soen2026.org/pdcta/index",
-      null
-    ]
-  ],
-  [
-    "PCDS",
-    "The 3rd International Symposium on Parallel Computing and Distributed Systems (PCDS 2026)",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260927",
-      "20261011",
-      "20261018",
-      "20261116",
-      "20261128",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://pcds.cc/",
-      null
-    ],
-    [
-      null,
-      "20270927",
-      "20271011",
-      "20271018",
-      "20271116",
-      "20271128",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://pcds.cc/",
       null
     ]
   ],
@@ -1329,6 +1286,49 @@
       false,
       false,
       "https://parma-ditam-workshop.github.io/",
+      null
+    ]
+  ],
+  [
+    "PCDS",
+    "The 3rd International Symposium on Parallel Computing and Distributed Systems (PCDS 2026)",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20260927",
+      "20261011",
+      "20261018",
+      "20261116",
+      "20261128",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://pcds.cc/",
+      null
+    ],
+    [
+      null,
+      "20270927",
+      "20271011",
+      "20271018",
+      "20271116",
+      "20271128",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://pcds.cc/",
       null
     ]
   ],
@@ -1604,7 +1604,7 @@
       null,
       "20260918",
       null,
-      "20260918",
+      "20260921",
       "20260928",
       "20260930",
       null,
@@ -1613,14 +1613,14 @@
       true,
       true,
       true,
-      "https://ais.cn/u/VVVvMj",
+      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
       null
     ],
     [
       null,
       "20270918",
       null,
-      "20270918",
+      "20270921",
       "20270928",
       "20270930",
       null,
@@ -1629,7 +1629,7 @@
       false,
       false,
       false,
-      "https://ais.cn/u/VVVvMj",
+      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
       null
     ]
   ],
@@ -1759,49 +1759,6 @@
       false,
       false,
       "https://univ-oran1.dz/edis/edis26/",
-      null
-    ]
-  ],
-  [
-    "ACM HP3C",
-    "ACM--2026 10th International Conference on High Performance Compilation, Computing and Communications (HP3C 2026)",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260510",
-      null,
-      null,
-      "20260624",
-      "20260626",
-      null,
-      true,
-      null,
-      null,
-      true,
-      true,
-      "http://www.hp3c.net",
-      null
-    ],
-    [
-      null,
-      "20270510",
-      null,
-      null,
-      "20270624",
-      "20270626",
-      null,
-      false,
-      null,
-      null,
-      false,
-      false,
-      "http://www.hp3c.net",
       null
     ]
   ],
@@ -2060,49 +2017,6 @@
       false,
       false,
       "https://dcoss.org/",
-      null
-    ]
-  ],
-  [
-    "CLOUD COMPUTING",
-    "The Seventeenth International Conference on Cloud Computing, GRIDs, and Virtualization",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260124",
-      "20260215",
-      "20260315",
-      "20260419",
-      "20260423",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://www.iaria.org/conferences2026/CLOUDCOMPUTING26.html",
-      null
-    ],
-    [
-      null,
-      "20270124",
-      "20270215",
-      "20270315",
-      "20270419",
-      "20270423",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://www.iaria.org/conferences2026/CLOUDCOMPUTING26.html",
       null
     ]
   ],
