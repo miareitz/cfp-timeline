@@ -999,6 +999,10 @@
     "continent": "Europe",
     "raw": "Helsinki, Finnland"
   },
+  "ESWC": {
+    "continent": "(unknown)",
+    "raw": "5* St. Raphael Resort and Marina, Limass"
+  },
   "ETS": {
     "continent": "Europe",
     "raw": "Tallinn, ESTONIA"
