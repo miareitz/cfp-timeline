@@ -43,6 +43,49 @@
     ]
   ],
   [
+    "OPENET4HAI @ SCA",
+    "Workshop on Open, Programmable, and Emerging Networking Technologies for HPC and AI",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20261208",
+      "20261222",
+      "20270108",
+      "20270301",
+      "20270304",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://pronet4hai.github.io/2027/",
+      null
+    ],
+    [
+      null,
+      "20271208",
+      "20271222",
+      "20280108",
+      "20280301",
+      "20280304",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://pronet4hai.github.io/2027/",
+      null
+    ]
+  ],
+  [
     "ECHO",
     "ECHO: The 1st International Workshop on Edge-Cloud-HPC Operational Continuum at SC '26",
     [
@@ -1215,7 +1258,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20261017",
+      "20261024",
       "20261106",
       "20261113",
       "20261121",
@@ -1231,7 +1274,7 @@
     ],
     [
       null,
-      "20271017",
+      "20271024",
       "20271106",
       "20271113",
       "20271121",
@@ -1559,7 +1602,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20261023",
+      "20261028",
       null,
       "20261031",
       "20261120",
@@ -1575,7 +1618,7 @@
     ],
     [
       null,
-      "20271023",
+      "20271028",
       null,
       "20271031",
       "20271120",
@@ -1604,7 +1647,7 @@
       null,
       "20260918",
       null,
-      "20260918",
+      "20260921",
       "20260928",
       "20260930",
       null,
@@ -1613,14 +1656,14 @@
       true,
       true,
       true,
-      "https://ais.cn/u/VVVvMj",
+      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
       null
     ],
     [
       null,
       "20270918",
       null,
-      "20270918",
+      "20270921",
       "20270928",
       "20270930",
       null,
@@ -1629,7 +1672,7 @@
       false,
       false,
       false,
-      "https://ais.cn/u/VVVvMj",
+      "https://www.aischolar.com/conference/ccpcdl2026?invite=wiki",
       null
     ]
   ],
@@ -1806,6 +1849,49 @@
     ]
   ],
   [
+    "DisCoTec",
+    "22nd International Federated Conference on Distributed Computing Techniques",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      "20270128",
+      "20270204",
+      "20270322",
+      "20270401",
+      "20270614",
+      "20270618",
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://www.discotec.org/2027",
+      null
+    ],
+    [
+      "20280128",
+      "20280204",
+      "20280322",
+      "20280401",
+      "20280614",
+      "20280618",
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://www.discotec.org/2027",
+      null
+    ]
+  ],
+  [
     "ICADCML",
     "8th International Conference on Advances in Distributed Computing and Machine Learning",
     [
@@ -1888,49 +1974,6 @@
       false,
       false,
       "https://tinyurl.com/ApPLIED2026",
-      null
-    ]
-  ],
-  [
-    "DisCoTec",
-    "21st International Federated Conference on Distributed Computing Techniques",
-    [
-      null
-    ],
-    [
-      "Custom"
-    ],
-    "Distributed computing and systems software",
-    [
-      null,
-      "20260226",
-      "20260324",
-      "20260408",
-      "20260608",
-      "20260612",
-      null,
-      true,
-      true,
-      true,
-      true,
-      true,
-      "https://www.discotec.org/2026/",
-      null
-    ],
-    [
-      null,
-      "20270226",
-      "20270324",
-      "20270408",
-      "20270608",
-      "20270612",
-      null,
-      false,
-      false,
-      false,
-      false,
-      false,
-      "https://www.discotec.org/2026/",
       null
     ]
   ],
