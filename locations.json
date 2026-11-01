@@ -679,6 +679,10 @@
     "continent": "Asia",
     "raw": "Taiyuan \u00e5\u00a4\u00aa\u00e5\u008e\u009f China"
   },
+  "CaiSE": {
+    "continent": "Europe",
+    "raw": "Seville, Spain"
+  },
   "CoDIT": {
     "continent": "Europe",
     "raw": "Bari - Italy"
@@ -1574,6 +1578,10 @@
   "ICGT": {
     "continent": "Europe",
     "raw": "Rennes"
+  },
+  "ICHBC": {
+    "continent": "Asia",
+    "raw": "Nanchang, China"
   },
   "ICHI": {
     "continent": "North America",
@@ -2510,6 +2518,10 @@
   "NMR": {
     "continent": "Europe",
     "raw": "Lisbon, Portugal"
+  },
+  "NOMS": {
+    "continent": "North America",
+    "raw": "Montreal, Canada"
   },
   "NORDSEC": {
     "continent": "Europe",
