@@ -2215,6 +2215,10 @@
     "continent": "(unknown)",
     "raw": "Las Vegas"
   },
+  "ITS": {
+    "continent": "Europe",
+    "raw": "Rome, Italy"
+  },
   "ITSC": {
     "continent": "Europe",
     "raw": "Naples, Italy"
@@ -2374,6 +2378,10 @@
   "MDAI": {
     "continent": "Europe",
     "raw": "Vic, Catalonia, Spain"
+  },
+  "MDM": {
+    "continent": "Australia",
+    "raw": "Hamilton, New Zealand"
   },
   "MEDES": {
     "continent": "Asia",
@@ -2922,6 +2930,10 @@
   "SEAA": {
     "continent": "Europe",
     "raw": "Krakow, Poland"
+  },
+  "SECRYPT": {
+    "continent": "Europe",
+    "raw": "Rome, Italy"
   },
   "SECURWARE": {
     "continent": "Europe",
