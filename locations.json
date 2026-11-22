@@ -271,6 +271,10 @@
     "continent": "Europe",
     "raw": "Lecce, Italy"
   },
+  "AdCom": {
+    "continent": "Asia",
+    "raw": "Chennai, India"
+  },
   "ApPLIED": {
     "continent": "(unknown)",
     "raw": "N/A"
@@ -390,6 +394,10 @@
   "CASCON": {
     "continent": "North America",
     "raw": "Greater Toronto Area, Ontario, Canada"
+  },
+  "CATA": {
+    "continent": "North America",
+    "raw": "New Orleans, Louisiana, USA"
   },
   "CAV": {
     "continent": "Europe",
@@ -1434,6 +1442,10 @@
   "ICCCAS": {
     "continent": "Asia",
     "raw": "Takasaki, Gunma, Japan"
+  },
+  "ICCCI": {
+    "continent": "Europe",
+    "raw": "C\u00c3\u00a1diz, Spain"
   },
   "ICCCT": {
     "continent": "Asia",
@@ -2899,6 +2911,10 @@
     "continent": "Europe",
     "raw": "Madrid,Spain"
   },
+  "SBGAMES": {
+    "continent": "South America",
+    "raw": "Porto Alegre - RS | Brazil"
+  },
   "SC": {
     "continent": "(unknown)",
     "raw": "St. Louis, MO"
@@ -2930,6 +2946,10 @@
   "SEAA": {
     "continent": "Europe",
     "raw": "Krakow, Poland"
+  },
+  "SECON": {
+    "continent": "Europe",
+    "raw": "Lisbon, Portugal"
   },
   "SECRYPT": {
     "continent": "Europe",

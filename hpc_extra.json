@@ -1258,7 +1258,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20261116",
+      "20261123",
       "20261214",
       "20270107",
       "20270118",
@@ -1274,7 +1274,7 @@
     ],
     [
       null,
-      "20271116",
+      "20271123",
       "20271214",
       "20280107",
       "20280118",
@@ -1559,7 +1559,7 @@
     "Distributed computing and systems software",
     [
       null,
-      "20261118",
+      "20261129",
       null,
       "20261204",
       "20261218",
@@ -1575,7 +1575,7 @@
     ],
     [
       null,
-      "20271118",
+      "20271129",
       null,
       "20271204",
       "20271218",
@@ -1845,6 +1845,49 @@
       false,
       false,
       "https://hpqci.github.io/",
+      null
+    ]
+  ],
+  [
+    "CCCIoT",
+    "8th International Conference on Cloud Computing and IoT",
+    [
+      null
+    ],
+    [
+      "Custom"
+    ],
+    "Distributed computing and systems software",
+    [
+      null,
+      "20261212",
+      "20270123",
+      "20270130",
+      "20270220",
+      "20270221",
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      "https://sofe2027.org/ccciot/index",
+      null
+    ],
+    [
+      null,
+      "20271212",
+      "20280123",
+      "20280130",
+      "20280220",
+      "20280221",
+      null,
+      false,
+      false,
+      false,
+      false,
+      false,
+      "https://sofe2027.org/ccciot/index",
       null
     ]
   ],
